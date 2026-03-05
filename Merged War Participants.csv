@@ -1,0 +1,879 @@
+ID,Conflict,Side,Participant ID,War_ID
+0,American Revolutionary War,Allies,0,0.0
+1,American Revolutionary War,Allies,1,0.0
+2,American Revolutionary War,Allies,2,0.0
+3,American Revolutionary War,Allies,3,0.0
+4,American Revolutionary War,Allies,4,0.0
+5,American Revolutionary War,Allies,5,0.0
+6,American Revolutionary War,Allies,6,0.0
+7,American Revolutionary War,Allies,7,0.0
+8,American Revolutionary War,Allies,8,0.0
+9,American Revolutionary War,Allies,9,0.0
+10,American Revolutionary War,Allies,10,0.0
+11,American Revolutionary War,Allies,11,0.0
+12,American Revolutionary War,Allies,12,0.0
+13,Cherokee-American wars,Allies,0,
+14,Cherokee-American wars,Allies,10,
+15,Northwest Indian War,Allies,0,2.0
+16,Northwest Indian War,Allies,13,2.0
+17,Northwest Indian War,Allies,10,2.0
+18,American-Algerian War,Allies,0,3.0
+19,Quasi-War,Allies,0,4.0
+20,Quasi-War,Allies,14,4.0
+21,First Barbary War,Allies,0,5.0
+22,First Barbary War,Allies,15,5.0
+23,First Barbary War,Allies,16,5.0
+24,First Barbary War,Allies,17,5.0
+25,First Barbary War,Allies,18,5.0
+26,First Barbary War,Allies,19,5.0
+27,Tecumseh's War,Allies,0,6.0
+28,War of 1812,Allies,0,7.0
+29,War of 1812,Allies,20,7.0
+30,War of 1812,Allies,21,7.0
+31,War of 1812,Allies,22,7.0
+32,Creek War,Allies,0,8.0
+33,Creek War,Allies,23,8.0
+34,Creek War,Allies,21,8.0
+35,Creek War,Allies,20,8.0
+36,Second Barbary War,Allies,0,9.0
+37,First Seminole War,Allies,0,10.0
+38,Arikara War,Allies,0,11.0
+39,Arikara War,Allies,24,11.0
+40,Winnebago War,Allies,0,12.0
+41,Winnebago War,Allies,20,12.0
+42,Black Hawk War,Allies,0,13.0
+43,Black Hawk War,Allies,25,13.0
+44,Black Hawk War,Allies,26,13.0
+45,Black Hawk War,Allies,27,13.0
+46,Black Hawk War,Allies,28,13.0
+47,Second Seminole War,Allies,0,14.0
+48,Texas Comanche Wars,Allies,29,15.0
+49,Texas Comanche Wars,Allies,0,15.0
+50,Mexican-American War,Allies,0,16.0
+51,Mexican-American War,Allies,30,16.0
+52,Cayuse War,Allies,0,17.0
+53,Apache Wars,Allies,0,18.0
+54,Navajo Wars,Allies,0,19.0
+55,Bleeding Kansas,Allies,31,20.0
+56,Puget Sound War,Allies,0,21.0
+57,Puget Sound War,Allies,32,21.0
+58,Rogue River Wars,Allies,0,22.0
+59,Third Seminole War,Allies,0,23.0
+60,Yakima War,Allies,0,24.0
+61,Yakima War,Allies,32,24.0
+62,Second Opium War,Allies,33,25.0
+63,Second Opium War,Allies,34,25.0
+64,Second Opium War,Allies,0,25.0
+65,Utah War,Allies,0,26.0
+66,Reform War,Allies,35,27.0
+67,Reform War,Allies,0,27.0
+68,Pig War,Allies,0,28.0
+69,Pig War,Allies,36,28.0
+70,John Brown's Raid on Harpers Ferry,Allies,0,29.0
+71,First and Second Cortina War,Allies,0,30.0
+72,First and Second Cortina War,Allies,37,30.0
+73,First and Second Cortina War,Allies,38,30.0
+74,Paiute War,Allies,0,31.0
+75,American Civil War,Allies,0,32.0
+76,American Civil War,Allies,39,32.0
+77,American Civil War,Allies,40,32.0
+78,American Civil War,Allies,41,32.0
+79,American Civil War,Allies,42,32.0
+80,Yavapai Wars,Allies,0,33.0
+81,Dakota War of 1862,Allies,0,34.0
+82,Colorado War,Allies,0,35.0
+83,Snake War,Allies,0,36.0
+84,Powder River War,Allies,0,37.0
+85,Red Cloud's War,Allies,0,38.0
+86,Red Cloud's War,Allies,43,38.0
+87,Formosa Expedition,Allies,0,39.0
+88,Comanche Campaign,Allies,0,40.0
+89,United States expedition to Korea,Allies,0,41.0
+90,Modoc War,Allies,0,42.0
+91,Red River War,Allies,0,43.0
+92,Las Cuevas War,Allies,0,44.0
+93,Great Sioux War of 1876,Allies,0,45.0
+94,Buffalo Hunters' War,Allies,0,46.0
+95,Nez Perce War,Allies,0,47.0
+96,Bannock War,Allies,0,48.0
+97,Cheyenne War,Allies,0,49.0
+98,Sheepeater Indian War,Allies,0,50.0
+99,Victorio's War,Allies,0,51.0
+100,Victorio's War,Allies,38,51.0
+101,White River War,Allies,0,52.0
+102,Egyptian Expedition,Allies,0,53.0
+103,Crow War,Allies,0,54.0
+104,Ghost Dance War,Allies,0,55.0
+105,Garza War,Allies,38,56.0
+106,Garza War,Allies,0,56.0
+107,Yaqui Wars,Allies,0,57.0
+108,Yaqui Wars,Allies,38,57.0
+109,Second Samoan Civil War,Allies,44,58.0
+110,Second Samoan Civil War,Allies,0,58.0
+111,Spanish-American War,Allies,0,59.0
+112,Spanish-American War,Allies,45,59.0
+113,Spanish-American War,Allies,46,59.0
+114,Philippine-American War,Allies,47,60.0
+115,Philippine-American War,Allies,48,60.0
+116,Moro Rebellion,Allies,0,61.0
+117,Boxer Rebellion,Allies,33,62.0
+118,Boxer Rebellion,Allies,49,62.0
+119,Boxer Rebellion,Allies,50,62.0
+120,Boxer Rebellion,Allies,51,62.0
+121,Boxer Rebellion,Allies,52,62.0
+122,Boxer Rebellion,Allies,53,62.0
+123,Boxer Rebellion,Allies,54,62.0
+124,Boxer Rebellion,Allies,55,62.0
+125,Boxer Rebellion,Allies,0,62.0
+126,Boxer Rebellion,Allies,56,62.0
+127,Boxer Rebellion,Allies,57,62.0
+128,Boxer Rebellion,Allies,58,62.0
+129,Boxer Rebellion,Allies,59,62.0
+130,Crazy Snake's War,Allies,0,63.0
+131,Mexican Border War,Allies,0,64.0
+132,Little Race War,Allies,60,65.0
+133,Little Race War,Allies,0,65.0
+134,United States occupation of Nicaragua,Allies,0,66.0
+135,United States occupation of Nicaragua,Allies,61,66.0
+136,Bluff War,Allies,0,67.0
+137,United States occupation of Veracruz,Allies,0,68.0
+138,United States occupation of Veracruz,Allies,62,68.0
+139,United States occupation of Haiti,Allies,0,69.0
+140,United States occupation of Haiti,Allies,63,69.0
+141,United States occupation of the Dominican Republic,Allies,0,70.0
+142,World War I,Allies,55,71.0
+143,World War I,Allies,33,71.0
+144,World War I,Allies,57,71.0
+145,World War I,Allies,64,71.0
+146,World War I,Allies,65,71.0
+147,World War I,Allies,54,71.0
+148,World War I,Allies,66,71.0
+149,World War I,Allies,67,71.0
+150,World War I,Allies,68,71.0
+151,World War I,Allies,69,71.0
+152,World War I,Allies,70,71.0
+153,World War I,Allies,71,71.0
+154,World War I,Allies,72,71.0
+155,World War I,Allies,73,71.0
+156,World War I,Allies,74,71.0
+157,World War I,Allies,75,71.0
+158,World War I,Allies,76,71.0
+159,World War I,Allies,77,71.0
+160,World War I,Allies,78,71.0
+161,World War I,Allies,79,71.0
+162,Russian Civil War,Allies,80,72.0
+163,Russian Civil War,Allies,81,72.0
+164,Russian Civil War,Allies,82,72.0
+165,Russian Civil War,Allies,83,72.0
+166,Russian Civil War,Allies,84,72.0
+167,Russian Civil War,Allies,85,72.0
+168,Russian Civil War,Allies,86,72.0
+169,Russian Civil War,Allies,33,72.0
+170,Russian Civil War,Allies,49,72.0
+171,Russian Civil War,Allies,87,72.0
+172,Russian Civil War,Allies,50,72.0
+173,Russian Civil War,Allies,52,72.0
+174,Russian Civil War,Allies,88,72.0
+175,Russian Civil War,Allies,54,72.0
+176,Russian Civil War,Allies,69,72.0
+177,Russian Civil War,Allies,0,72.0
+178,Russian Civil War,Allies,55,72.0
+179,Russian Civil War,Allies,66,72.0
+180,Russian Civil War,Allies,89,72.0
+181,Russian Civil War,Allies,90,72.0
+182,Russian Civil War,Allies,91,72.0
+183,Russian Civil War,Allies,92,72.0
+184,Russian Civil War,Allies,93,72.0
+185,Russian Civil War,Allies,94,72.0
+186,Russian Civil War,Allies,95,72.0
+187,Posey War,Allies,0,73.0
+188,World War II,Allies,55,74.0
+189,World War II,Allies,33,74.0
+190,World War II,Allies,96,74.0
+191,World War II,Allies,97,74.0
+192,World War II,Allies,98,74.0
+193,World War II,Allies,99,74.0
+194,World War II,Allies,100,74.0
+195,World War II,Allies,69,74.0
+196,World War II,Allies,101,74.0
+197,World War II,Allies,102,74.0
+198,World War II,Allies,103,74.0
+199,World War II,Allies,70,74.0
+200,World War II,Allies,104,74.0
+201,World War II,Allies,105,74.0
+202,World War II,Allies,106,74.0
+203,World War II,Allies,107,74.0
+204,World War II,Allies,79,74.0
+205,World War II,Allies,38,74.0
+206,World War II,Allies,108,74.0
+207,World War II,Allies,109,74.0
+208,World War II,Allies,110,74.0
+209,World War II,Allies,111,74.0
+210,World War II,Allies,112,74.0
+211,World War II,Allies,113,74.0
+212,World War II,Allies,114,74.0
+213,World War II,Allies,115,74.0
+214,World War II,Allies,116,74.0
+215,World War II,Allies,77,74.0
+216,World War II,Allies,117,74.0
+217,World War II,Allies,118,74.0
+218,World War II,Allies,119,74.0
+219,World War II,Allies,120,74.0
+220,Korean War,Allies,121,75.0
+221,Korean War,Allies,122,75.0
+222,Korean War,Allies,0,75.0
+223,Korean War,Allies,49,75.0
+224,Korean War,Allies,50,75.0
+225,Korean War,Allies,70,75.0
+226,Korean War,Allies,87,75.0
+227,Korean War,Allies,123,75.0
+228,Korean War,Allies,124,75.0
+229,Korean War,Allies,125,75.0
+230,Korean War,Allies,113,75.0
+231,Korean War,Allies,69,75.0
+232,Korean War,Allies,104,75.0
+233,Korean War,Allies,103,75.0
+234,Korean War,Allies,51,75.0
+235,Korean War,Allies,126,75.0
+236,Korean War,Allies,114,75.0
+237,Korean War,Allies,127,75.0
+238,Korean War,Allies,128,75.0
+239,Vietnam War,Allies,129,76.0
+240,Vietnam War,Allies,0,76.0
+241,Vietnam War,Allies,121,76.0
+242,Vietnam War,Allies,50,76.0
+243,Vietnam War,Allies,51,76.0
+244,Vietnam War,Allies,127,76.0
+245,Vietnam War,Allies,124,76.0
+246,Vietnam War,Allies,130,76.0
+247,Vietnam War,Allies,131,76.0
+248,Laotian Civil War,Allies,130,77.0
+249,Laotian Civil War,Allies,0,77.0
+250,Laotian Civil War,Allies,129,77.0
+251,Laotian Civil War,Allies,127,77.0
+252,Laotian Civil War,Allies,132,77.0
+253,Laotian Civil War,Allies,133,77.0
+254,Permesta Rebellion,Allies,134,78.0
+255,Permesta Rebellion,Allies,0,78.0
+256,Lebanon crisis,Allies,135,79.0
+257,Lebanon crisis,Allies,0,79.0
+258,Bay of Pigs Invasion,Allies,136,80.0
+259,Bay of Pigs Invasion,Allies,0,80.0
+260,Dominican Civil War,Allies,137,81.0
+261,Dominican Civil War,Allies,0,81.0
+262,Dominican Civil War,Allies,138,81.0
+263,Dominican Civil War,Allies,139,81.0
+264,Dominican Civil War,Allies,61,81.0
+265,Dominican Civil War,Allies,140,81.0
+266,Dominican Civil War,Allies,141,81.0
+267,Dominican Civil War,Allies,142,81.0
+268,Korean DMZ Conflict,Allies,121,82.0
+269,Korean DMZ Conflict,Allies,0,82.0
+270,Cambodian Civil War,Allies,143,83.0
+271,Cambodian Civil War,Allies,144,83.0
+272,Cambodian Civil War,Allies,0,83.0
+273,Cambodian Civil War,Allies,129,83.0
+274,Cambodian Civil War,Allies,145,83.0
+275,Cambodian Civil War,Allies,87,83.0
+276,Cambodian Civil War,Allies,123,83.0
+277,Cambodian Civil War,Allies,127,83.0
+278,Multinational intervention in Lebanon,Allies,146,84.0
+279,Multinational intervention in Lebanon,Allies,147,84.0
+280,Multinational intervention in Lebanon,Allies,123,84.0
+281,Multinational intervention in Lebanon,Allies,49,84.0
+282,Multinational intervention in Lebanon,Allies,90,84.0
+283,Multinational intervention in Lebanon,Allies,148,84.0
+284,Multinational intervention in Lebanon,Allies,149,84.0
+285,Multinational intervention in Lebanon,Allies,150,84.0
+286,Multinational intervention in Lebanon,Allies,151,84.0
+287,United States invasion of Grenada,Allies,0,85.0
+288,United States invasion of Grenada,Allies,152,85.0
+289,United States invasion of Grenada,Allies,153,85.0
+290,United States invasion of Grenada,Allies,154,85.0
+291,United States invasion of Grenada,Allies,155,85.0
+292,United States invasion of Grenada,Allies,156,85.0
+293,United States invasion of Grenada,Allies,157,85.0
+294,United States invasion of Grenada,Allies,158,85.0
+295,Bombing of Libya,Allies,0,86.0
+296,Tanker War,Allies,0,87.0
+297,United States invasion of Panama,Allies,0,88.0
+298,United States invasion of Panama,Allies,159,88.0
+299,Gulf War,Allies,0,89.0
+300,Gulf War,Allies,49,89.0
+301,Gulf War,Allies,160,89.0
+302,Gulf War,Allies,161,89.0
+303,Gulf War,Allies,123,89.0
+304,Gulf War,Allies,87,89.0
+305,Gulf War,Allies,162,89.0
+306,Gulf War,Allies,163,89.0
+307,Gulf War,Allies,164,89.0
+308,Gulf War,Allies,165,89.0
+309,Gulf War,Allies,166,89.0
+310,Gulf War,Allies,167,89.0
+311,Iraqi No-Fly Zone Enforcement Operations,Allies,0,90.0
+312,Iraqi No-Fly Zone Enforcement Operations,Allies,49,90.0
+313,Iraqi No-Fly Zone Enforcement Operations,Allies,123,90.0
+314,Iraqi No-Fly Zone Enforcement Operations,Allies,50,90.0
+315,Iraqi No-Fly Zone Enforcement Operations,Allies,70,90.0
+316,Iraqi No-Fly Zone Enforcement Operations,Allies,103,90.0
+317,Iraqi No-Fly Zone Enforcement Operations,Allies,161,90.0
+318,Iraqi No-Fly Zone Enforcement Operations,Allies,128,90.0
+319,Iraqi No-Fly Zone Enforcement Operations,Allies,90,90.0
+320,First U.S. Intervention in the Somali Civil War,Allies,0,91.0
+321,First U.S. Intervention in the Somali Civil War,Allies,49,91.0
+322,First U.S. Intervention in the Somali Civil War,Allies,168,91.0
+323,First U.S. Intervention in the Somali Civil War,Allies,161,91.0
+324,First U.S. Intervention in the Somali Civil War,Allies,169,91.0
+325,First U.S. Intervention in the Somali Civil War,Allies,170,91.0
+326,First U.S. Intervention in the Somali Civil War,Allies,90,91.0
+327,First U.S. Intervention in the Somali Civil War,Allies,52,91.0
+328,First U.S. Intervention in the Somali Civil War,Allies,171,91.0
+329,First U.S. Intervention in the Somali Civil War,Allies,172,91.0
+330,First U.S. Intervention in the Somali Civil War,Allies,123,91.0
+331,First U.S. Intervention in the Somali Civil War,Allies,87,91.0
+332,First U.S. Intervention in the Somali Civil War,Allies,173,91.0
+333,First U.S. Intervention in the Somali Civil War,Allies,70,91.0
+334,First U.S. Intervention in the Somali Civil War,Allies,50,91.0
+335,First U.S. Intervention in the Somali Civil War,Allies,51,91.0
+336,Bosnian WarandCroatian War,Allies,174,
+337,Bosnian WarandCroatian War,Allies,175,
+338,Bosnian WarandCroatian War,Allies,176,
+339,Bosnian WarandCroatian War,Allies,0,
+340,Bosnian WarandCroatian War,Allies,70,
+341,Bosnian WarandCroatian War,Allies,87,
+342,Bosnian WarandCroatian War,Allies,101,
+343,Bosnian WarandCroatian War,Allies,123,
+344,Bosnian WarandCroatian War,Allies,172,
+345,Bosnian WarandCroatian War,Allies,90,
+346,Bosnian WarandCroatian War,Allies,104,
+347,Bosnian WarandCroatian War,Allies,103,
+348,Bosnian WarandCroatian War,Allies,102,
+349,Bosnian WarandCroatian War,Allies,71,
+350,Bosnian WarandCroatian War,Allies,168,
+351,Bosnian WarandCroatian War,Allies,128,
+352,Bosnian WarandCroatian War,Allies,49,
+353,Intervention in Haiti,Allies,0,93.0
+354,Intervention in Haiti,Allies,91,93.0
+355,Intervention in Haiti,Allies,107,93.0
+356,Kosovo War,Allies,177,94.0
+357,Kosovo War,Allies,178,94.0
+358,Kosovo War,Allies,179,94.0
+359,Kosovo War,Allies,176,94.0
+360,Kosovo War,Allies,0,94.0
+361,Kosovo War,Allies,70,94.0
+362,Kosovo War,Allies,87,94.0
+363,Kosovo War,Allies,180,94.0
+364,Kosovo War,Allies,101,94.0
+365,Kosovo War,Allies,123,94.0
+366,Kosovo War,Allies,172,94.0
+367,Kosovo War,Allies,181,94.0
+368,Kosovo War,Allies,90,94.0
+369,Kosovo War,Allies,104,94.0
+370,Kosovo War,Allies,103,94.0
+371,Kosovo War,Allies,102,94.0
+372,Kosovo War,Allies,71,94.0
+373,Kosovo War,Allies,91,94.0
+374,Kosovo War,Allies,168,94.0
+375,Kosovo War,Allies,128,94.0
+376,Kosovo War,Allies,49,94.0
+377,War in Afghanistan,Allies,182,95.0
+378,War in Afghanistan,Allies,183,95.0
+379,War in Afghanistan,Allies,0,95.0
+380,War in Afghanistan,Allies,87,95.0
+381,War in Afghanistan,Allies,49,95.0
+382,War in Afghanistan,Allies,50,95.0
+383,War in Afghanistan,Allies,51,95.0
+384,War in Afghanistan,Allies,176,95.0
+385,War in Afghanistan,Allies,180,95.0
+386,War in Afghanistan,Allies,101,95.0
+387,War in Afghanistan,Allies,184,95.0
+388,War in Afghanistan,Allies,172,95.0
+389,War in Afghanistan,Allies,103,95.0
+390,War in Afghanistan,Allies,90,95.0
+391,War in Afghanistan,Allies,89,95.0
+392,War in Afghanistan,Allies,185,95.0
+393,War in Afghanistan,Allies,168,95.0
+394,War in Afghanistan,Allies,128,95.0
+395,US intervention in Yemen,Allies,0,96.0
+396,US intervention in Yemen,Allies,186,96.0
+397,US intervention in Yemen,Allies,166,96.0
+398,US intervention in Yemen,Allies,165,96.0
+399,US intervention in Yemen,Allies,160,96.0
+400,US intervention in Yemen,Allies,164,96.0
+401,US intervention in Yemen,Allies,187,96.0
+402,US intervention in Yemen,Allies,188,96.0
+403,US intervention in Yemen,Allies,189,96.0
+404,US intervention in Yemen,Allies,190,96.0
+405,US intervention in Yemen,Allies,191,96.0
+406,US intervention in Yemen,Allies,49,96.0
+407,US intervention in Yemen,Allies,192,96.0
+408,US intervention in Yemen,Allies,193,96.0
+409,US intervention in Yemen,Allies,194,96.0
+410,US intervention in Yemen,Allies,195,96.0
+411,Iraq War,Allies,196,97.0
+412,Iraq War,Allies,197,97.0
+413,Iraq War,Allies,49,97.0
+414,Iraq War,Allies,198,97.0
+415,Iraq War,Allies,50,97.0
+416,Iraq War,Allies,91,97.0
+417,Iraq War,Allies,199,97.0
+418,Iraq War,Allies,200,97.0
+419,Iraq War,Allies,90,97.0
+420,Iraq War,Allies,168,97.0
+421,US intervention in the War in North-West Pakistan,Allies,170,
+422,US intervention in the War in North-West Pakistan,Allies,0,
+423,US intervention in the War in North-West Pakistan,Allies,201,
+424,Second US Intervention in the Somali Civil War,Allies,202,99.0
+425,Second US Intervention in the Somali Civil War,Allies,0,99.0
+426,Second US Intervention in the Somali Civil War,Allies,203,99.0
+427,Second US Intervention in the Somali Civil War,Allies,204,99.0
+428,Second US Intervention in the Somali Civil War,Allies,205,99.0
+429,Second US Intervention in the Somali Civil War,Allies,206,99.0
+430,Second US Intervention in the Somali Civil War,Allies,207,99.0
+431,Second US Intervention in the Somali Civil War,Allies,208,99.0
+432,Second US Intervention in the Somali Civil War,Allies,209,99.0
+433,Second US Intervention in the Somali Civil War,Allies,210,99.0
+434,Second US Intervention in the Somali Civil War,Allies,211,99.0
+435,Second US Intervention in the Somali Civil War,Allies,128,99.0
+436,Second US Intervention in the Somali Civil War,Allies,49,99.0
+437,Second US Intervention in the Somali Civil War,Allies,212,99.0
+438,Second US Intervention in the Somali Civil War,Allies,122,99.0
+439,Operation Ocean Shield,Allies,213,100.0
+440,Operation Ocean Shield,Allies,50,100.0
+441,Operation Ocean Shield,Allies,94,100.0
+442,Operation Ocean Shield,Allies,125,100.0
+443,Operation Ocean Shield,Allies,52,100.0
+444,Operation Ocean Shield,Allies,214,100.0
+445,Operation Ocean Shield,Allies,215,100.0
+446,Operation Ocean Shield,Allies,169,100.0
+447,Operation Ocean Shield,Allies,51,100.0
+448,Operation Ocean Shield,Allies,167,100.0
+449,Operation Ocean Shield,Allies,170,100.0
+450,Operation Ocean Shield,Allies,216,100.0
+451,Operation Ocean Shield,Allies,161,100.0
+452,Operation Ocean Shield,Allies,217,100.0
+453,Operation Ocean Shield,Allies,218,100.0
+454,Operation Ocean Shield,Allies,202,100.0
+455,Operation Ocean Shield,Allies,121,100.0
+456,Operation Ocean Shield,Allies,219,100.0
+457,International intervention in Libya,Allies,220,101.0
+458,International intervention in Libya,Allies,213,101.0
+459,International intervention in Libya,Allies,15,101.0
+460,International intervention in Libya,Allies,187,101.0
+461,International intervention in Libya,Allies,164,101.0
+462,International intervention in Libya,Allies,166,101.0
+463,International intervention in Libya,Allies,221,101.0
+464,Operation Observant Compass,Allies,0,102.0
+465,Operation Observant Compass,Allies,222,102.0
+466,Operation Observant Compass,Allies,223,102.0
+467,Operation Observant Compass,Allies,224,102.0
+468,Operation Observant Compass,Allies,225,102.0
+469,US military intervention in Niger,Allies,0,103.0
+470,US military intervention in Niger,Allies,226,103.0
+471,US military intervention in Niger,Allies,123,103.0
+472,US-led intervention in Iraq,Allies,0,104.0
+473,US-led intervention in Iraq,Allies,197,104.0
+474,US-led intervention in Iraq,Allies,199,104.0
+475,US-led intervention in Iraq,Allies,227,104.0
+476,US-led intervention in Iraq,Allies,51,104.0
+477,US-led intervention in Iraq,Allies,70,104.0
+478,US-led intervention in Iraq,Allies,87,104.0
+479,US-led intervention in Iraq,Allies,101,104.0
+480,US-led intervention in Iraq,Allies,123,104.0
+481,US-led intervention in Iraq,Allies,172,104.0
+482,US-led intervention in Iraq,Allies,90,104.0
+483,US-led intervention in Iraq,Allies,187,104.0
+484,US-led intervention in Iraq,Allies,188,104.0
+485,US-led intervention in Iraq,Allies,103,104.0
+486,US-led intervention in Iraq,Allies,128,104.0
+487,US-led intervention in Iraq,Allies,49,104.0
+488,US intervention in the Syrian civil war,Allies,0,105.0
+489,US intervention in the Syrian civil war,Allies,228,105.0
+490,US intervention in the Syrian civil war,Allies,229,105.0
+491,US intervention in the Syrian civil war,Allies,230,105.0
+492,US intervention in the Syrian civil war,Allies,231,105.0
+493,US intervention in the Syrian civil war,Allies,232,105.0
+494,US intervention in the Syrian civil war,Allies,233,105.0
+495,US intervention in the Syrian civil war,Allies,234,105.0
+496,US intervention in the Syrian civil war,Allies,227,105.0
+497,US intervention in the Syrian civil war,Allies,51,105.0
+498,US intervention in the Syrian civil war,Allies,87,105.0
+499,US intervention in the Syrian civil war,Allies,70,105.0
+500,US intervention in the Syrian civil war,Allies,101,105.0
+501,US intervention in the Syrian civil war,Allies,123,105.0
+502,US intervention in the Syrian civil war,Allies,172,105.0
+503,US intervention in the Syrian civil war,Allies,90,105.0
+504,US intervention in the Syrian civil war,Allies,103,105.0
+505,US intervention in the Syrian civil war,Allies,89,105.0
+506,US intervention in the Syrian civil war,Allies,49,105.0
+507,US intervention in the Syrian civil war,Allies,135,105.0
+508,US intervention in the Syrian civil war,Allies,188,105.0
+509,US intervention in the Syrian civil war,Allies,187,105.0
+510,US intervention in the Syrian civil war,Allies,161,105.0
+511,US intervention in the Syrian civil war,Allies,166,105.0
+512,US intervention in the Syrian civil war,Allies,164,105.0
+513,US intervention in the Syrian civil war,Allies,165,105.0
+514,US intervention in the Syrian civil war,Allies,235,105.0
+515,US intervention in the Syrian civil war,Allies,236,105.0
+516,US intervention in the Syrian civil war,Allies,237,105.0
+517,US intervention in the Syrian civil war,Allies,238,105.0
+518,US intervention in Libya,Allies,0,106.0
+519,US intervention in Libya,Allies,49,106.0
+520,US intervention in Libya,Allies,123,106.0
+521,US intervention in Libya,Allies,239,106.0
+522,US intervention in Libya,Allies,240,106.0
+523,Operation Prosperity Guardian,Allies,0,107.0
+524,Operation Prosperity Guardian,Allies,49,107.0
+525,Operation Prosperity Guardian,Allies,50,107.0
+526,Operation Prosperity Guardian,Allies,51,107.0
+527,Operation Prosperity Guardian,Allies,87,107.0
+528,Operation Prosperity Guardian,Allies,101,107.0
+529,Operation Prosperity Guardian,Allies,171,107.0
+530,Operation Prosperity Guardian,Allies,103,107.0
+531,Operation Prosperity Guardian,Allies,102,107.0
+532,Operation Prosperity Guardian,Allies,165,107.0
+533,Operation Prosperity Guardian,Allies,218,107.0
+534,Operation Prosperity Guardian,Allies,241,107.0
+535,Operation Prosperity Guardian,Allies,242,107.0
+536,American Revolutionary War,Opponents,243,0.0
+537,American Revolutionary War,Opponents,244,0.0
+538,American Revolutionary War,Opponents,245,0.0
+539,American Revolutionary War,Opponents,4,0.0
+540,American Revolutionary War,Opponents,246,0.0
+541,American Revolutionary War,Opponents,247,0.0
+542,American Revolutionary War,Opponents,248,0.0
+543,American Revolutionary War,Opponents,249,0.0
+544,Cherokee-American wars,Opponents,249,
+545,Northwest Indian War,Opponents,250,2.0
+546,Northwest Indian War,Opponents,243,2.0
+547,Northwest Indian War,Opponents,251,2.0
+548,American-Algerian War,Opponents,252,3.0
+549,Quasi-War,Opponents,55,4.0
+550,Quasi-War,Opponents,253,4.0
+551,First Barbary War,Opponents,254,5.0
+552,First Barbary War,Opponents,19,5.0
+553,Tecumseh's War,Opponents,255,6.0
+554,War of 1812,Opponents,49,7.0
+555,War of 1812,Opponents,255,7.0
+556,War of 1812,Opponents,256,7.0
+557,Creek War,Opponents,257,8.0
+558,Second Barbary War,Opponents,258,9.0
+559,First Seminole War,Opponents,259,10.0
+560,First Seminole War,Opponents,260,10.0
+561,Arikara War,Opponents,261,11.0
+562,Winnebago War,Opponents,262,12.0
+563,Winnebago War,Opponents,263,12.0
+564,Black Hawk War,Opponents,264,13.0
+565,Black Hawk War,Opponents,265,13.0
+566,Black Hawk War,Opponents,25,13.0
+567,Black Hawk War,Opponents,266,13.0
+568,Second Seminole War,Opponents,259,14.0
+569,Texas Comanche Wars,Opponents,267,15.0
+570,Mexican-American War,Opponents,38,16.0
+571,Cayuse War,Opponents,268,17.0
+572,Apache Wars,Opponents,269,18.0
+573,Apache Wars,Opponents,270,18.0
+574,Apache Wars,Opponents,271,18.0
+575,Navajo Wars,Opponents,272,19.0
+576,Bleeding Kansas,Opponents,273,20.0
+577,Puget Sound War,Opponents,274,21.0
+578,Puget Sound War,Opponents,275,21.0
+579,Puget Sound War,Opponents,276,21.0
+580,Puget Sound War,Opponents,277,21.0
+581,Puget Sound War,Opponents,278,21.0
+582,Puget Sound War,Opponents,279,21.0
+583,Rogue River Wars,Opponents,280,22.0
+584,Third Seminole War,Opponents,259,23.0
+585,Yakima War,Opponents,281,24.0
+586,Yakima War,Opponents,282,24.0
+587,Yakima War,Opponents,283,24.0
+588,Yakima War,Opponents,284,24.0
+589,Yakima War,Opponents,285,24.0
+590,Second Opium War,Opponents,94,25.0
+591,Utah War,Opponents,286,26.0
+592,Reform War,Opponents,287,27.0
+593,Pig War,Opponents,49,28.0
+594,Pig War,Opponents,288,28.0
+595,John Brown's Raid on Harpers Ferry,Opponents,289,29.0
+596,John Brown's Raid on Harpers Ferry,Opponents,290,29.0
+597,First and Second Cortina War,Opponents,291,30.0
+598,Paiute War,Opponents,292,31.0
+599,Paiute War,Opponents,293,31.0
+600,Paiute War,Opponents,294,31.0
+601,American Civil War,Opponents,37,32.0
+602,American Civil War,Opponents,21,32.0
+603,American Civil War,Opponents,20,32.0
+604,American Civil War,Opponents,8,32.0
+605,American Civil War,Opponents,295,32.0
+606,American Civil War,Opponents,296,32.0
+607,American Civil War,Opponents,297,32.0
+608,American Civil War,Opponents,298,32.0
+609,Yavapai Wars,Opponents,271,33.0
+610,Yavapai Wars,Opponents,269,33.0
+611,Yavapai Wars,Opponents,299,33.0
+612,Yavapai Wars,Opponents,300,33.0
+613,Dakota War of 1862,Opponents,301,34.0
+614,Colorado War,Opponents,302,35.0
+615,Colorado War,Opponents,303,35.0
+616,Colorado War,Opponents,24,35.0
+617,Snake War,Opponents,292,36.0
+618,Snake War,Opponents,294,36.0
+619,Snake War,Opponents,293,36.0
+620,Powder River War,Opponents,24,37.0
+621,Powder River War,Opponents,302,37.0
+622,Powder River War,Opponents,303,37.0
+623,Red Cloud's War,Opponents,304,38.0
+624,Red Cloud's War,Opponents,302,38.0
+625,Red Cloud's War,Opponents,303,38.0
+626,Formosa Expedition,Opponents,305,39.0
+627,Comanche Campaign,Opponents,302,40.0
+628,Comanche Campaign,Opponents,303,40.0
+629,Comanche Campaign,Opponents,267,40.0
+630,Comanche Campaign,Opponents,306,40.0
+631,United States expedition to Korea,Opponents,307,41.0
+632,Modoc War,Opponents,308,42.0
+633,Red River War,Opponents,302,43.0
+634,Red River War,Opponents,303,43.0
+635,Red River War,Opponents,267,43.0
+636,Red River War,Opponents,306,43.0
+637,Las Cuevas War,Opponents,309,44.0
+638,Great Sioux War of 1876,Opponents,304,45.0
+639,Great Sioux War of 1876,Opponents,301,45.0
+640,Great Sioux War of 1876,Opponents,310,45.0
+641,Great Sioux War of 1876,Opponents,303,45.0
+642,Buffalo Hunters' War,Opponents,267,46.0
+643,Buffalo Hunters' War,Opponents,269,46.0
+644,Nez Perce War,Opponents,311,47.0
+645,Nez Perce War,Opponents,312,47.0
+646,Bannock War,Opponents,294,48.0
+647,Bannock War,Opponents,293,48.0
+648,Bannock War,Opponents,292,48.0
+649,Cheyenne War,Opponents,302,49.0
+650,Sheepeater Indian War,Opponents,293,50.0
+651,Victorio's War,Opponents,269,51.0
+652,White River War,Opponents,270,52.0
+653,Egyptian Expedition,Opponents,162,53.0
+654,Crow War,Opponents,313,54.0
+655,Ghost Dance War,Opponents,24,55.0
+656,Garza War,Opponents,314,56.0
+657,Yaqui Wars,Opponents,315,57.0
+658,Yaqui Wars,Opponents,316,57.0
+659,Yaqui Wars,Opponents,317,57.0
+660,Second Samoan Civil War,Opponents,318,58.0
+661,Second Samoan Civil War,Opponents,56,58.0
+662,Spanish-American War,Opponents,168,59.0
+663,Spanish-American War,Opponents,60,59.0
+664,Spanish-American War,Opponents,319,59.0
+665,Spanish-American War,Opponents,124,59.0
+666,Spanish-American War,Opponents,320,59.0
+667,Philippine-American War,Opponents,321,60.0
+668,Philippine-American War,Opponents,322,60.0
+669,Philippine-American War,Opponents,323,60.0
+670,Philippine-American War,Opponents,324,60.0
+671,Philippine-American War,Opponents,325,60.0
+672,Philippine-American War,Opponents,326,60.0
+673,Philippine-American War,Opponents,327,60.0
+674,Moro Rebellion,Opponents,328,61.0
+675,Moro Rebellion,Opponents,329,61.0
+676,Boxer Rebellion,Opponents,330,62.0
+677,Boxer Rebellion,Opponents,331,62.0
+678,Crazy Snake's War,Opponents,332,63.0
+679,Mexican Border War,Opponents,38,64.0
+680,Mexican Border War,Opponents,333,64.0
+681,Little Race War,Opponents,334,65.0
+682,United States occupation of Nicaragua,Opponents,335,66.0
+683,United States occupation of Nicaragua,Opponents,336,66.0
+684,Bluff War,Opponents,270,67.0
+685,Bluff War,Opponents,292,67.0
+686,United States occupation of Veracruz,Opponents,38,68.0
+687,United States occupation of Veracruz,Opponents,333,68.0
+688,United States occupation of Veracruz,Opponents,57,68.0
+689,United States occupation of Haiti,Opponents,337,69.0
+690,United States occupation of the Dominican Republic,Opponents,338,70.0
+691,World War I,Opponents,56,71.0
+692,World War I,Opponents,58,71.0
+693,World War I,Opponents,339,71.0
+694,World War I,Opponents,340,71.0
+695,Russian Civil War,Opponents,341,72.0
+696,Russian Civil War,Opponents,342,72.0
+697,Russian Civil War,Opponents,343,72.0
+698,Russian Civil War,Opponents,82,72.0
+699,Russian Civil War,Opponents,84,72.0
+700,Russian Civil War,Opponents,85,72.0
+701,Posey War,Opponents,270,73.0
+702,Posey War,Opponents,292,73.0
+703,World War II,Opponents,344,74.0
+704,World War II,Opponents,54,74.0
+705,World War II,Opponents,57,74.0
+706,World War II,Opponents,345,74.0
+707,World War II,Opponents,346,74.0
+708,World War II,Opponents,68,74.0
+709,World War II,Opponents,340,74.0
+710,World War II,Opponents,347,74.0
+711,World War II,Opponents,348,74.0
+712,World War II,Opponents,349,74.0
+713,World War II,Opponents,350,74.0
+714,World War II,Opponents,127,74.0
+715,World War II,Opponents,351,74.0
+716,World War II,Opponents,352,74.0
+717,Korean War,Opponents,353,75.0
+718,Korean War,Opponents,94,75.0
+719,Korean War,Opponents,354,75.0
+720,Korean War,Opponents,355,75.0
+721,Korean War,Opponents,99,75.0
+722,Korean War,Opponents,356,75.0
+723,Korean War,Opponents,357,75.0
+724,Korean War,Opponents,358,75.0
+725,Korean War,Opponents,359,75.0
+726,Korean War,Opponents,117,75.0
+727,Vietnam War,Opponents,360,76.0
+728,Vietnam War,Opponents,361,76.0
+729,Vietnam War,Opponents,362,76.0
+730,Vietnam War,Opponents,363,76.0
+731,Vietnam War,Opponents,94,76.0
+732,Vietnam War,Opponents,354,76.0
+733,Vietnam War,Opponents,353,76.0
+734,Vietnam War,Opponents,355,76.0
+735,Vietnam War,Opponents,364,76.0
+736,Vietnam War,Opponents,356,76.0
+737,Vietnam War,Opponents,357,76.0
+738,Vietnam War,Opponents,365,76.0
+739,Vietnam War,Opponents,359,76.0
+740,Vietnam War,Opponents,60,76.0
+741,Laotian Civil War,Opponents,362,77.0
+742,Laotian Civil War,Opponents,360,77.0
+743,Laotian Civil War,Opponents,366,77.0
+744,Laotian Civil War,Opponents,354,77.0
+745,Laotian Civil War,Opponents,367,77.0
+746,Laotian Civil War,Opponents,364,77.0
+747,Laotian Civil War,Opponents,365,77.0
+748,Laotian Civil War,Opponents,60,77.0
+749,Permesta Rebellion,Opponents,214,78.0
+750,Lebanon crisis,Opponents,368,79.0
+751,Lebanon crisis,Opponents,369,79.0
+752,Lebanon crisis,Opponents,370,79.0
+753,Bay of Pigs Invasion,Opponents,60,80.0
+754,Dominican Civil War,Opponents,371,81.0
+755,Korean DMZ Conflict,Opponents,353,82.0
+756,Cambodian Civil War,Opponents,372,83.0
+757,Cambodian Civil War,Opponents,363,83.0
+758,Cambodian Civil War,Opponents,373,83.0
+759,Cambodian Civil War,Opponents,374,83.0
+760,Cambodian Civil War,Opponents,360,83.0
+761,Cambodian Civil War,Opponents,375,83.0
+762,Cambodian Civil War,Opponents,366,83.0
+763,Cambodian Civil War,Opponents,354,83.0
+764,Cambodian Civil War,Opponents,353,83.0
+765,Cambodian Civil War,Opponents,364,83.0
+766,Cambodian Civil War,Opponents,365,83.0
+767,Cambodian Civil War,Opponents,60,83.0
+768,Multinational intervention in Lebanon,Opponents,376,84.0
+769,Multinational intervention in Lebanon,Opponents,377,84.0
+770,Multinational intervention in Lebanon,Opponents,378,84.0
+771,Multinational intervention in Lebanon,Opponents,379,84.0
+772,Multinational intervention in Lebanon,Opponents,380,84.0
+773,Multinational intervention in Lebanon,Opponents,381,84.0
+774,Multinational intervention in Lebanon,Opponents,382,84.0
+775,Multinational intervention in Lebanon,Opponents,383,84.0
+776,Multinational intervention in Lebanon,Opponents,163,84.0
+777,Multinational intervention in Lebanon,Opponents,384,84.0
+778,Multinational intervention in Lebanon,Opponents,161,84.0
+779,Multinational intervention in Lebanon,Opponents,189,84.0
+780,Multinational intervention in Lebanon,Opponents,166,84.0
+781,Multinational intervention in Lebanon,Opponents,239,84.0
+782,Multinational intervention in Lebanon,Opponents,385,84.0
+783,United States invasion of Grenada,Opponents,386,85.0
+784,United States invasion of Grenada,Opponents,60,85.0
+785,United States invasion of Grenada,Opponents,387,85.0
+786,United States invasion of Grenada,Opponents,388,85.0
+787,United States invasion of Grenada,Opponents,367,85.0
+788,United States invasion of Grenada,Opponents,239,85.0
+789,Bombing of Libya,Opponents,239,86.0
+790,Tanker War,Opponents,379,87.0
+791,United States invasion of Panama,Opponents,389,88.0
+792,Gulf War,Opponents,197,89.0
+793,Iraqi No-Fly Zone Enforcement Operations,Opponents,197,90.0
+794,First U.S. Intervention in the Somali Civil War,Opponents,390,91.0
+795,Bosnian WarandCroatian War,Opponents,391,
+796,Bosnian WarandCroatian War,Opponents,392,
+797,Bosnian WarandCroatian War,Opponents,393,
+798,Intervention in Haiti,Opponents,63,93.0
+799,Kosovo War,Opponents,394,94.0
+800,War in Afghanistan,Opponents,395,95.0
+801,War in Afghanistan,Opponents,396,95.0
+802,War in Afghanistan,Opponents,397,95.0
+803,War in Afghanistan,Opponents,398,95.0
+804,War in Afghanistan,Opponents,399,95.0
+805,War in Afghanistan,Opponents,400,95.0
+806,War in Afghanistan,Opponents,401,95.0
+807,War in Afghanistan,Opponents,402,95.0
+808,War in Afghanistan,Opponents,403,95.0
+809,War in Afghanistan,Opponents,404,95.0
+810,US intervention in Yemen,Opponents,405,96.0
+811,Iraq War,Opponents,406,97.0
+812,Iraq War,Opponents,407,97.0
+813,Iraq War,Opponents,408,97.0
+814,Iraq War,Opponents,409,97.0
+815,Iraq War,Opponents,410,97.0
+816,Iraq War,Opponents,411,97.0
+817,Iraq War,Opponents,412,97.0
+818,Iraq War,Opponents,413,97.0
+819,Iraq War,Opponents,414,97.0
+820,Iraq War,Opponents,415,97.0
+821,Iraq War,Opponents,416,97.0
+822,Iraq War,Opponents,417,97.0
+823,Iraq War,Opponents,418,97.0
+824,Iraq War,Opponents,419,97.0
+825,Iraq War,Opponents,420,97.0
+826,US intervention in the War in North-West Pakistan,Opponents,421,
+827,US intervention in the War in North-West Pakistan,Opponents,422,
+828,US intervention in the War in North-West Pakistan,Opponents,423,
+829,US intervention in the War in North-West Pakistan,Opponents,397,
+830,US intervention in the War in North-West Pakistan,Opponents,424,
+831,US intervention in the War in North-West Pakistan,Opponents,425,
+832,US intervention in the War in North-West Pakistan,Opponents,426,
+833,US intervention in the War in North-West Pakistan,Opponents,427,
+834,US intervention in the War in North-West Pakistan,Opponents,428,
+835,US intervention in the War in North-West Pakistan,Opponents,429,
+836,Second US Intervention in the Somali Civil War,Opponents,430,99.0
+837,Second US Intervention in the Somali Civil War,Opponents,431,99.0
+838,Second US Intervention in the Somali Civil War,Opponents,432,99.0
+839,Second US Intervention in the Somali Civil War,Opponents,433,99.0
+840,Operation Ocean Shield,Opponents,434,100.0
+841,International intervention in Libya,Opponents,435,101.0
+842,International intervention in Libya,Opponents,436,101.0
+843,International intervention in Libya,Opponents,437,101.0
+844,International intervention in Libya,Opponents,438,101.0
+845,International intervention in Libya,Opponents,439,101.0
+846,International intervention in Libya,Opponents,440,101.0
+847,International intervention in Libya,Opponents,441,101.0
+848,International intervention in Libya,Opponents,442,101.0
+849,Operation Observant Compass,Opponents,443,102.0
+850,US military intervention in Niger,Opponents,444,103.0
+851,US military intervention in Niger,Opponents,445,103.0
+852,US military intervention in Niger,Opponents,446,103.0
+853,US military intervention in Niger,Opponents,447,103.0
+854,US military intervention in Niger,Opponents,448,103.0
+855,US military intervention in Niger,Opponents,449,103.0
+856,US military intervention in Niger,Opponents,450,103.0
+857,US-led intervention in Iraq,Opponents,451,104.0
+858,US-led intervention in Iraq,Opponents,452,104.0
+859,US intervention in the Syrian civil war,Opponents,446,105.0
+860,US intervention in the Syrian civil war,Opponents,453,105.0
+861,US intervention in the Syrian civil war,Opponents,454,105.0
+862,US intervention in the Syrian civil war,Opponents,455,105.0
+863,US intervention in the Syrian civil war,Opponents,456,105.0
+864,US intervention in the Syrian civil war,Opponents,457,105.0
+865,US intervention in the Syrian civil war,Opponents,458,105.0
+866,US intervention in the Syrian civil war,Opponents,459,105.0
+867,US intervention in the Syrian civil war,Opponents,460,105.0
+868,US intervention in the Syrian civil war,Opponents,461,105.0
+869,US intervention in the Syrian civil war,Opponents,462,105.0
+870,US intervention in the Syrian civil war,Opponents,463,105.0
+871,US intervention in the Syrian civil war,Opponents,379,105.0
+872,US intervention in the Syrian civil war,Opponents,464,105.0
+873,US intervention in Libya,Opponents,465,106.0
+874,US intervention in Libya,Opponents,466,106.0
+875,Operation Prosperity Guardian,Opponents,467,107.0
+876,Operation Prosperity Guardian,Opponents,468,107.0
+877,Operation Prosperity Guardian,Opponents,469,107.0

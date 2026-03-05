@@ -1,0 +1,879 @@
+ID,Conflict,Name,Side
+0,American Revolutionary War,United States,Allies
+1,American Revolutionary War,Kingdom of France,Allies
+2,American Revolutionary War,Canadian Auxiliaries,Allies
+3,American Revolutionary War,Spanish Empire,Allies
+4,American Revolutionary War,Iroquois,Allies
+5,American Revolutionary War,Oneida,Allies
+6,American Revolutionary War,Tuscarora,Allies
+7,American Revolutionary War,Watauga  Association,Allies
+8,American Revolutionary War,Catawba,Allies
+9,American Revolutionary War,Lenape,Allies
+10,American Revolutionary War,Choctaw,Allies
+11,American Revolutionary War,Dutch Republic,Allies
+12,American Revolutionary War,Mysore,Allies
+13,Cherokee–American wars,United States,Allies
+14,Cherokee–American wars,Choctaw,Allies
+15,Northwest Indian War,United States,Allies
+16,Northwest Indian War,Chickasaw,Allies
+17,Northwest Indian War,Choctaw,Allies
+18,American–Algerian War,United States,Allies
+19,Quasi-War,United States,Allies
+20,Quasi-War,Co-belligerent: Great Britain,Allies
+21,First Barbary War,United States,Allies
+22,First Barbary War,Sweden,Allies
+23,First Barbary War,Kingdom of Sicily,Allies
+24,First Barbary War,Malta Protectorate,Allies
+25,First Barbary War,Kingdom of Portugal,Allies
+26,First Barbary War,Sultanate of Morocco,Allies
+27,Tecumseh's War,United States,Allies
+28,War of 1812,United States,Allies
+29,War of 1812,Choctaw Nation,Allies
+30,War of 1812,Cherokee Nation,Allies
+31,War of 1812,Creek Allies,Allies
+32,Creek War,United States,Allies
+33,Creek War,Lower Creeks,Allies
+34,Creek War,Cherokee Nation,Allies
+35,Creek War,Choctaw Nation,Allies
+36,Second Barbary War,United States,Allies
+37,First Seminole War,United States,Allies
+38,Arikara War,United States,Allies
+39,Arikara War,Sioux,Allies
+40,Winnebago War,United States,Allies
+41,Winnebago War,Choctaw Nation,Allies
+42,Black Hawk War,United States,Allies
+43,Black Hawk War,Ho-Chunk,Allies
+44,Black Hawk War,Menominee,Allies
+45,Black Hawk War,Dakota,Allies
+46,Black Hawk War,Potawatomi,Allies
+47,Second Seminole War,United States,Allies
+48,Texas Comanche Wars,Republic of Texas,Allies
+49,Texas Comanche Wars,United States,Allies
+50,Mexican–American War,United States,Allies
+51,Mexican–American War,California Republic,Allies
+52,Cayuse War,United States,Allies
+53,Apache Wars,United States,Allies
+54,Navajo Wars,United States,Allies
+55,Bleeding Kansas,Anti-slavery settlers (Free-Staters),Allies
+56,Puget Sound War,United States,Allies
+57,Puget Sound War,Snoqualmie,Allies
+58,Rogue River Wars,United States,Allies
+59,Third Seminole War,United States,Allies
+60,Yakima War,United States,Allies
+61,Yakima War,Snoqualmie,Allies
+62,Second Opium War,British Empire,Allies
+63,Second Opium War,French Empire,Allies
+64,Second Opium War,United States,Allies
+65,Utah War,United States,Allies
+66,Reform War,Liberals,Allies
+67,Reform War,United States,Allies
+68,Pig War,United States,Allies
+69,Pig War,Washington Territory,Allies
+70,John Brown's Raid on Harpers Ferry,United States,Allies
+71,First and Second Cortina War,United States,Allies
+72,First and Second Cortina War,Confederate States,Allies
+73,First and Second Cortina War,Mexico,Allies
+74,Paiute War,United States,Allies
+75,American Civil War,United States,Allies
+76,American Civil War,Indian Home Guard,Allies
+77,American Civil War,Seminole Nation (Western),Allies
+78,American Civil War,Seminole Nation (Florida),Allies
+79,American Civil War,Muskogee Nation,Allies
+80,Yavapai Wars,United States,Allies
+81,Dakota War of 1862,United States,Allies
+82,Colorado War,United States,Allies
+83,Snake War,United States,Allies
+84,Powder River War,United States,Allies
+85,Red Cloud's War,United States,Allies
+86,Red Cloud's War,Crow Nation,Allies
+87,Formosa Expedition,United States,Allies
+88,Comanche Campaign,United States,Allies
+89,United States expedition to Korea,United States,Allies
+90,Modoc War,United States,Allies
+91,Red River War,United States,Allies
+92,Las Cuevas War,United States,Allies
+93,Great Sioux War of 1876,United States,Allies
+94,Buffalo Hunters' War,United States,Allies
+95,Nez Perce War,United States,Allies
+96,Bannock War,United States,Allies
+97,Cheyenne War,United States,Allies
+98,Sheepeater Indian War,United States,Allies
+99,Victorio's War,United States,Allies
+100,Victorio's War,Mexico,Allies
+101,White River War,United States,Allies
+102,Egyptian Expedition,United States,Allies
+103,Crow War,United States,Allies
+104,Ghost Dance War,United States,Allies
+105,Garza War,Mexico,Allies
+106,Garza War,United States,Allies
+107,Yaqui Wars,United States,Allies
+108,Yaqui Wars,Mexico,Allies
+109,Second Samoan Civil War,Samoa,Allies
+110,Second Samoan Civil War,United States,Allies
+111,Spanish–American War,United States,Allies
+112,Spanish–American War,Cuban Revolutionaries,Allies
+113,Spanish–American War,Filipino Revolutionaries,Allies
+114,Philippine–American War,United States - Military government (1899–1902),Allies
+115,Philippine–American War,United States - Civil government (1902-1906),Allies
+116,Moro Rebellion,United States,Allies
+117,Boxer Rebellion,British Empire,Allies
+118,Boxer Rebellion,United Kingdom,Allies
+119,Boxer Rebellion,Australia,Allies
+120,Boxer Rebellion,New Zealand,Allies
+121,Boxer Rebellion,India,Allies
+122,Boxer Rebellion,Russian Empire,Allies
+123,Boxer Rebellion,Empire of Japan,Allies
+124,Boxer Rebellion,French Republic,Allies
+125,Boxer Rebellion,United States,Allies
+126,Boxer Rebellion,German Empire,Allies
+127,Boxer Rebellion,Kingdom of Italy,Allies
+128,Boxer Rebellion,Austro-Hungarian Empire,Allies
+129,Boxer Rebellion,China(until 1900),Allies
+130,Crazy Snake's War,United States,Allies
+131,Mexican Border War,United States,Allies
+132,Little Race War,Cuba,Allies
+133,Little Race War,United States,Allies
+134,United States occupation of Nicaragua,United States,Allies
+135,United States occupation of Nicaragua,Nicaragua,Allies
+136,Bluff War,United States,Allies
+137,United States occupation of Veracruz,United States,Allies
+138,United States occupation of Veracruz,Supported by:United Kingdom,Allies
+139,United States occupation of Haiti,United States,Allies
+140,United States occupation of Haiti,Haiti,Allies
+141,United States occupation of the Dominican Republic,United States,Allies
+142,World War I,French Republic,Allies
+143,World War I,British Empire,Allies
+144,World War I,Kingdom of Italy,Allies
+145,World War I,United States (since 1917),Allies
+146,World War I,Russian Empire (until 1917),Allies
+147,World War I,Empire of Japan,Allies
+148,World War I,Kingdom of Serbia,Allies
+149,World War I,Kingdom of Montenegro,Allies
+150,World War I,Kingdom of Romania,Allies
+151,World War I,Kingdom of Greece,Allies
+152,World War I,Belgium,Allies
+153,World War I,Portugal,Allies
+154,World War I,Republic of Armenia,Allies
+155,World War I,Sultanate of Egypt,Allies
+156,World War I,Idrisid Emirate of Asir,Allies
+157,World War I,Emirate of Nejd and Hasa,Allies
+158,World War I,Kingdom of Hejaz,Allies
+159,World War I,Republic of China,Allies
+160,World War I,Siam,Allies
+161,World War I,Brazil,Allies
+162,Russian Civil War,White Movement,Allies
+163,Russian Civil War,Mountain Republic,Allies
+164,Russian Civil War,Makhnovshchina,Allies
+165,Russian Civil War,Right SRs,Allies
+166,Russian Civil War,Left SRs,Allies
+167,Russian Civil War,Green armies,Allies
+168,Russian Civil War,Czechoslovakia,Allies
+169,Russian Civil War,British Empire,Allies
+170,Russian Civil War,United Kingdom,Allies
+171,Russian Civil War,Canada,Allies
+172,Russian Civil War,Australia,Allies
+173,Russian Civil War,India,Allies
+174,Russian Civil War,South Africa,Allies
+175,Russian Civil War,Empire of Japan,Allies
+176,Russian Civil War,Kingdom of Greece,Allies
+177,Russian Civil War,United States,Allies
+178,Russian Civil War,French Republic,Allies
+179,Russian Civil War,Kingdom of Serbia,Allies
+180,Russian Civil War,Romania,Allies
+181,Russian Civil War,Italy,Allies
+182,Russian Civil War,Poland,Allies
+183,Russian Civil War,Estonia,Allies
+184,Russian Civil War,Latvia,Allies
+185,Russian Civil War,China,Allies
+186,Russian Civil War,Mongolia,Allies
+187,Posey War,United States,Allies
+188,World War II,French Republic,Allies
+189,World War II,British Empire,Allies
+190,World War II,United States (since 1941),Allies
+191,World War II,Soviet Union (since 1941),Allies
+192,World War II,Republic of Poland,Allies
+193,World War II,Czechoslovak Republic,Allies
+194,World War II,Kingdom of Yugoslavia,Allies
+195,World War II,Kingdom of Greece,Allies
+196,World War II,Denmark,Allies
+197,World War II,Norway,Allies
+198,World War II,Netherlands,Allies
+199,World War II,Belgium,Allies
+200,World War II,Luxembourg,Allies
+201,World War II,Republic of Cuba,Allies
+202,World War II,Republic of Haiti,Allies
+203,World War II,Argentina,Allies
+204,World War II,Brazil,Allies
+205,World War II,Mexico,Allies
+206,World War II,Chile,Allies
+207,World War II,Peru,Allies
+208,World War II,United States of Venezuela,Allies
+209,World War II,Liberia,Allies
+210,World War II,Kingdom of Egypt,Allies
+211,World War II,Ethiopian Empire,Allies
+212,World War II,Union of South Africa,Allies
+213,World War II,Sultanate of Muscat and Oman,Allies
+214,World War II,Kingdom of Nepal,Allies
+215,World War II,Republic of China,Allies
+216,World War II,Mongolian People's Republic,Allies
+217,World War II,Commonwealth of the Philippines,Allies
+218,World War II,Viet Minh,Allies
+219,World War II,Korean Provisional Government,Allies
+220,Korean War,South Korea,Allies
+221,Korean War,United Nations,Allies
+222,Korean War,United States,Allies
+223,Korean War,United Kingdom,Allies
+224,Korean War,Australia,Allies
+225,Korean War,Belgium,Allies
+226,Korean War,Canada,Allies
+227,Korean War,France,Allies
+228,Korean War,Philippines,Allies
+229,Korean War,Colombia,Allies
+230,Korean War,Ethiopian Empire,Allies
+231,Korean War,Kingdom of Greece,Allies
+232,Korean War,Luxembourg,Allies
+233,Korean War,Netherlands,Allies
+234,Korean War,New Zealand,Allies
+235,Korean War,Spanish State,Allies
+236,Korean War,Union of South Africa,Allies
+237,Korean War,Thailand,Allies
+238,Korean War,Turkey,Allies
+239,Vietnam War,South Vietnam,Allies
+240,Vietnam War,United States,Allies
+241,Vietnam War,South Korea,Allies
+242,Vietnam War,Australia,Allies
+243,Vietnam War,New Zealand,Allies
+244,Vietnam War,Thailand,Allies
+245,Vietnam War,Philippines,Allies
+246,Vietnam War,Kingdom of Laos,Allies
+247,Vietnam War,Khmer Republic,Allies
+248,Laotian Civil War,Kingdom of Laos,Allies
+249,Laotian Civil War,United States,Allies
+250,Laotian Civil War,South Vietnam,Allies
+251,Laotian Civil War,Thailand,Allies
+252,Laotian Civil War,Supported by:Philippines,Allies
+253,Laotian Civil War,Taiwan,Allies
+254,Permesta Rebellion,Permesta,Allies
+255,Permesta Rebellion,United States,Allies
+256,Lebanon crisis,Lebanon,Allies
+257,Lebanon crisis,United States,Allies
+258,Bay of Pigs Invasion,CDRF,Allies
+259,Bay of Pigs Invasion,United States,Allies
+260,Dominican Civil War,Dominican Loyalists,Allies
+261,Dominican Civil War,United States,Allies
+262,Dominican Civil War,IAPF (Brazil,Allies
+263,Dominican Civil War,Paraguay,Allies
+264,Dominican Civil War,Nicaragua,Allies
+265,Dominican Civil War,Costa Rica,Allies
+266,Dominican Civil War,El Salvador,Allies
+267,Dominican Civil War,Honduras),Allies
+268,Korean DMZ Conflict,South Korea,Allies
+269,Korean DMZ Conflict,United States,Allies
+270,Cambodian Civil War,Kingdom of Cambodia (1967–1970),Allies
+271,Cambodian Civil War,Khmer Republic (1970–1975),Allies
+272,Cambodian Civil War,United States,Allies
+273,Cambodian Civil War,South Vietnam,Allies
+274,Cambodian Civil War,Supported by:Australia,Allies
+275,Cambodian Civil War,Canada,Allies
+276,Cambodian Civil War,France,Allies
+277,Cambodian Civil War,Thailand,Allies
+278,Multinational intervention in Lebanon,Lebanese Armed Forces,Allies
+279,Multinational intervention in Lebanon,UNIFIL Multinational Force in Lebanon:United States,Allies
+280,Multinational intervention in Lebanon,France,Allies
+281,Multinational intervention in Lebanon,United Kingdom,Allies
+282,Multinational intervention in Lebanon,Italy,Allies
+283,Multinational intervention in Lebanon,Israel,Allies
+284,Multinational intervention in Lebanon,Lebanese Front,Allies
+285,Multinational intervention in Lebanon,Army of Free Lebanon,Allies
+286,Multinational intervention in Lebanon,SLA,Allies
+287,United States invasion of Grenada,United States,Allies
+288,United States invasion of Grenada,Barbados,Allies
+289,United States invasion of Grenada,Jamaica,Allies
+290,United States invasion of Grenada,Antigua and Barbuda,Allies
+291,United States invasion of Grenada,Dominica,Allies
+292,United States invasion of Grenada,Saint Kitts and Nevis,Allies
+293,United States invasion of Grenada,Saint Lucia,Allies
+294,United States invasion of Grenada,Saint Vincent and the Grenadines,Allies
+295,Bombing of Libya,United States,Allies
+296,Tanker War,United States,Allies
+297,United States invasion of Panama,United States,Allies
+298,United States invasion of Panama,Panamanian Opposition,Allies
+299,Gulf War,United States,Allies
+300,Gulf War,United Kingdom,Allies
+301,Gulf War,Kuwait,Allies
+302,Gulf War,Saudi Arabia,Allies
+303,Gulf War,France,Allies
+304,Gulf War,Canada,Allies
+305,Gulf War,Egypt,Allies
+306,Gulf War,Syria,Allies
+307,Gulf War,Qatar,Allies
+308,Gulf War,Bahrain,Allies
+309,Gulf War,United Arab Emirates,Allies
+310,Gulf War,Oman,Allies
+311,Iraqi No-Fly Zone Enforcement Operations,United States,Allies
+312,Iraqi No-Fly Zone Enforcement Operations,United Kingdom,Allies
+313,Iraqi No-Fly Zone Enforcement Operations,France,Allies
+314,Iraqi No-Fly Zone Enforcement Operations,Australia,Allies
+315,Iraqi No-Fly Zone Enforcement Operations,Belgium,Allies
+316,Iraqi No-Fly Zone Enforcement Operations,Netherlands,Allies
+317,Iraqi No-Fly Zone Enforcement Operations,Saudi Arabia,Allies
+318,Iraqi No-Fly Zone Enforcement Operations,Turkey,Allies
+319,Iraqi No-Fly Zone Enforcement Operations,Italy,Allies
+320,First U.S. Intervention in the Somali Civil War,United States,Allies
+321,First U.S. Intervention in the Somali Civil War,United Kingdom,Allies
+322,First U.S. Intervention in the Somali Civil War,Spain,Allies
+323,First U.S. Intervention in the Somali Civil War,Saudi Arabia,Allies
+324,First U.S. Intervention in the Somali Civil War,Malaysia,Allies
+325,First U.S. Intervention in the Somali Civil War,Pakistan,Allies
+326,First U.S. Intervention in the Somali Civil War,Italy,Allies
+327,First U.S. Intervention in the Somali Civil War,India,Allies
+328,First U.S. Intervention in the Somali Civil War,Greece,Allies
+329,First U.S. Intervention in the Somali Civil War,Germany,Allies
+330,First U.S. Intervention in the Somali Civil War,France,Allies
+331,First U.S. Intervention in the Somali Civil War,Canada,Allies
+332,First U.S. Intervention in the Somali Civil War,Botswana,Allies
+333,First U.S. Intervention in the Somali Civil War,Belgium,Allies
+334,First U.S. Intervention in the Somali Civil War,Australia,Allies
+335,First U.S. Intervention in the Somali Civil War,New Zealand,Allies
+336,Bosnian War andCroatian War,Bosnia and Herzegovina,Allies
+337,Bosnian War andCroatian War,Herzeg-Bosnia,Allies
+338,Bosnian War andCroatian War,Croatia,Allies
+339,Bosnian War andCroatian War,United States,Allies
+340,Bosnian War andCroatian War,Belgium,Allies
+341,Bosnian War andCroatian War,Canada,Allies
+342,Bosnian War andCroatian War,Denmark,Allies
+343,Bosnian War andCroatian War,France,Allies
+344,Bosnian War andCroatian War,Germany,Allies
+345,Bosnian War andCroatian War,Italy,Allies
+346,Bosnian War andCroatian War,Luxembourg,Allies
+347,Bosnian War andCroatian War,Netherlands,Allies
+348,Bosnian War andCroatian War,Norway,Allies
+349,Bosnian War andCroatian War,Portugal,Allies
+350,Bosnian War andCroatian War,Spain,Allies
+351,Bosnian War andCroatian War,Turkey,Allies
+352,Bosnian War andCroatian War,United Kingdom,Allies
+353,Intervention in Haiti,United States,Allies
+354,Intervention in Haiti,Poland,Allies
+355,Intervention in Haiti,Argentina,Allies
+356,Kosovo War,KLA,Allies
+357,Kosovo War,AFRK,Allies
+358,Kosovo War,Albania,Allies
+359,Kosovo War,Croatia,Allies
+360,Kosovo War,United States,Allies
+361,Kosovo War,Belgium,Allies
+362,Kosovo War,Canada,Allies
+363,Kosovo War,Czech Republic,Allies
+364,Kosovo War,Denmark,Allies
+365,Kosovo War,France,Allies
+366,Kosovo War,Germany,Allies
+367,Kosovo War,Hungary,Allies
+368,Kosovo War,Italy,Allies
+369,Kosovo War,Luxembourg,Allies
+370,Kosovo War,Netherlands,Allies
+371,Kosovo War,Norway,Allies
+372,Kosovo War,Portugal,Allies
+373,Kosovo War,Poland,Allies
+374,Kosovo War,Spain,Allies
+375,Kosovo War,Turkey,Allies
+376,Kosovo War,United Kingdom,Allies
+377,War in Afghanistan,Resolute Support Mission,Allies
+378,War in Afghanistan,Afghanistan,Allies
+379,War in Afghanistan,United States,Allies
+380,War in Afghanistan,Canada,Allies
+381,War in Afghanistan,United Kingdom,Allies
+382,War in Afghanistan,Australia,Allies
+383,War in Afghanistan,New Zealand,Allies
+384,War in Afghanistan,Croatia,Allies
+385,War in Afghanistan,Czech Republic,Allies
+386,War in Afghanistan,Denmark,Allies
+387,War in Afghanistan,Georgia,Allies
+388,War in Afghanistan,Germany,Allies
+389,War in Afghanistan,Netherlands,Allies
+390,War in Afghanistan,Italy,Allies
+391,War in Afghanistan,Romania,Allies
+392,War in Afghanistan,Slovakia,Allies
+393,War in Afghanistan,Spain,Allies
+394,War in Afghanistan,Turkey,Allies
+395,US intervention in Yemen,United States,Allies
+396,US intervention in Yemen,Saudi-led coalition:Saudi Arabia,Allies
+397,US intervention in Yemen,United Arab Emirates,Allies
+398,US intervention in Yemen,Bahrain,Allies
+399,US intervention in Yemen,Kuwait,Allies
+400,US intervention in Yemen,Qatar,Allies
+401,US intervention in Yemen,Jordan,Allies
+402,US intervention in Yemen,Morocco,Allies
+403,US intervention in Yemen,Sudan,Allies
+404,US intervention in Yemen,Senegal,Allies
+405,US intervention in Yemen,Supported by:United States,Allies
+406,US intervention in Yemen,United Kingdom,Allies
+407,US intervention in Yemen,In support of:Cabinet of Yemen,Allies
+408,US intervention in Yemen,Yemen Armed Forces (pro-Hadi),Allies
+409,US intervention in Yemen,Yemeni Air Force,Allies
+410,US intervention in Yemen,Popular Resistance,Allies
+411,Iraq War,Post-invasion (2003–2011): United States,Allies
+412,Iraq War,Iraq,Allies
+413,Iraq War,United Kingdom,Allies
+414,Iraq War,MNF–I / Invasion phase (2003) - United States,Allies
+415,Iraq War,Australia,Allies
+416,Iraq War,Poland,Allies
+417,Iraq War,Iraqi Kurdistan,Allies
+418,Iraq War,Supported by:Netherlands,Allies
+419,Iraq War,Italy,Allies
+420,Iraq War,Spain,Allies
+421,US intervention in the War in North-West Pakistan,Pakistan,Allies
+422,US intervention in the War in North-West Pakistan,United States,Allies
+423,US intervention in the War in North-West Pakistan,Supported by: United Kingdom,Allies
+424,Second US Intervention in the Somali Civil War,Somalia,Allies
+425,Second US Intervention in the Somali Civil War,United States,Allies
+426,Second US Intervention in the Somali Civil War,AMISOM (Burundi,Allies
+427,Second US Intervention in the Somali Civil War,Djibouti,Allies
+428,Second US Intervention in the Somali Civil War,Ethiopia,Allies
+429,Second US Intervention in the Somali Civil War,Ghana,Allies
+430,Second US Intervention in the Somali Civil War,Kenya,Allies
+431,Second US Intervention in the Somali Civil War,Nigeria,Allies
+432,Second US Intervention in the Somali Civil War,Sierra Leone,Allies
+433,Second US Intervention in the Somali Civil War,Uganda),Allies
+434,Second US Intervention in the Somali Civil War,Supported by:Italy,Allies
+435,Second US Intervention in the Somali Civil War,Turkey,Allies
+436,Second US Intervention in the Somali Civil War,United Kingdom,Allies
+437,Second US Intervention in the Somali Civil War,Non-combat support: European Union,Allies
+438,Second US Intervention in the Somali Civil War,United Nations,Allies
+439,Operation Ocean Shield,NATO,Allies
+440,Operation Ocean Shield,Australia,Allies
+441,Operation Ocean Shield,China,Allies
+442,Operation Ocean Shield,Colombia,Allies
+443,Operation Ocean Shield,India,Allies
+444,Operation Ocean Shield,Indonesia,Allies
+445,Operation Ocean Shield,Japan,Allies
+446,Operation Ocean Shield,Malaysia,Allies
+447,Operation Ocean Shield,New Zealand,Allies
+448,Operation Ocean Shield,Oman,Allies
+449,Operation Ocean Shield,Pakistan,Allies
+450,Operation Ocean Shield,Russia,Allies
+451,Operation Ocean Shield,Saudi Arabia,Allies
+452,Operation Ocean Shield,Seychelles,Allies
+453,Operation Ocean Shield,Singapore,Allies
+454,Operation Ocean Shield,Somalia,Allies
+455,Operation Ocean Shield,South Korea,Allies
+456,Operation Ocean Shield,Ukraine,Allies
+457,International intervention in Libya,UNSC Resolution 1973 forces,Allies
+458,International intervention in Libya,NATO,Allies
+459,International intervention in Libya,Sweden,Allies
+460,International intervention in Libya,Jordan,Allies
+461,International intervention in Libya,Qatar,Allies
+462,International intervention in Libya,United Arab Emirates,Allies
+463,International intervention in Libya,Anti-Gaddafi rebels,Allies
+464,Operation Observant Compass,United States,Allies
+465,Operation Observant Compass,Uganda,Allies
+466,Operation Observant Compass,DR Congo,Allies
+467,Operation Observant Compass,Central African Republic,Allies
+468,Operation Observant Compass,South Sudan,Allies
+469,US military intervention in Niger,United States,Allies
+470,US military intervention in Niger,Supported by:Niger,Allies
+471,US military intervention in Niger,France,Allies
+472,US-led intervention in Iraq,United States,Allies
+473,US-led intervention in Iraq,Iraq,Allies
+474,US-led intervention in Iraq,Iraqi Kurdistan,Allies
+475,US-led intervention in Iraq,CJTF-OIR Members: Australia,Allies
+476,US-led intervention in Iraq,New Zealand,Allies
+477,US-led intervention in Iraq,Belgium,Allies
+478,US-led intervention in Iraq,Canada,Allies
+479,US-led intervention in Iraq,Denmark,Allies
+480,US-led intervention in Iraq,France,Allies
+481,US-led intervention in Iraq,Germany,Allies
+482,US-led intervention in Iraq,Italy,Allies
+483,US-led intervention in Iraq,Jordan,Allies
+484,US-led intervention in Iraq,Morocco,Allies
+485,US-led intervention in Iraq,Netherlands,Allies
+486,US-led intervention in Iraq,Turkey,Allies
+487,US-led intervention in Iraq,United Kingdom,Allies
+488,US intervention in the Syrian civil war,United States,Allies
+489,US intervention in the Syrian civil war,Revolutionary Commando Army,Allies
+490,US intervention in the Syrian civil war,Autonomous Administration of North and East Syria,Allies
+491,US intervention in the Syrian civil war,Syrian Democratic Forces (International Freedom Battalion,Allies
+492,US intervention in the Syrian civil war,People's Protection Units,Allies
+493,US intervention in the Syrian civil war,Women's Protection Units,Allies
+494,US intervention in the Syrian civil war,Al-Sanadid Forces,Allies
+495,US intervention in the Syrian civil war,Euphrates Volcano),Allies
+496,US intervention in the Syrian civil war,CJTF-OIR Members: Australia,Allies
+497,US intervention in the Syrian civil war,New Zealand,Allies
+498,US intervention in the Syrian civil war,Canada,Allies
+499,US intervention in the Syrian civil war,Belgium,Allies
+500,US intervention in the Syrian civil war,Denmark,Allies
+501,US intervention in the Syrian civil war,France,Allies
+502,US intervention in the Syrian civil war,Germany,Allies
+503,US intervention in the Syrian civil war,Italy,Allies
+504,US intervention in the Syrian civil war,Netherlands,Allies
+505,US intervention in the Syrian civil war,Romania,Allies
+506,US intervention in the Syrian civil war,United Kingdom,Allies
+507,US intervention in the Syrian civil war,Lebanon,Allies
+508,US intervention in the Syrian civil war,Morocco,Allies
+509,US intervention in the Syrian civil war,Jordan,Allies
+510,US intervention in the Syrian civil war,Saudi Arabia,Allies
+511,US intervention in the Syrian civil war,United Arab Emirates,Allies
+512,US intervention in the Syrian civil war,Qatar,Allies
+513,US intervention in the Syrian civil war,Bahrain,Allies
+514,US intervention in the Syrian civil war,Supported by:Iraq,Allies
+515,US intervention in the Syrian civil war,Kurdistan Regional Government,Allies
+516,US intervention in the Syrian civil war,TurkeyTurkish-backed rebels,Allies
+517,US intervention in the Syrian civil war,Israel (limited involvement; against Hezbollah and government forces only),Allies
+518,US intervention in Libya,United States,Allies
+519,US intervention in Libya,United Kingdom,Allies
+520,US intervention in Libya,France,Allies
+521,US intervention in Libya,Libya,Allies
+522,US intervention in Libya,Government of National Accord,Allies
+523,Operation Prosperity Guardian,United States,Allies
+524,Operation Prosperity Guardian,United Kingdom,Allies
+525,Operation Prosperity Guardian,Australia,Allies
+526,Operation Prosperity Guardian,New Zealand,Allies
+527,Operation Prosperity Guardian,Canada,Allies
+528,Operation Prosperity Guardian,Denmark,Allies
+529,Operation Prosperity Guardian,Greece,Allies
+530,Operation Prosperity Guardian,Netherlands,Allies
+531,Operation Prosperity Guardian,Norway,Allies
+532,Operation Prosperity Guardian,Bahrain,Allies
+533,Operation Prosperity Guardian,Singapore,Allies
+534,Operation Prosperity Guardian,Sri Lanka,Allies
+535,Operation Prosperity Guardian,Supported by:Seychelles,Allies
+536,American Revolutionary War,Great Britain,Opponents
+537,American Revolutionary War,Loyalists,Opponents
+538,American Revolutionary War,German Auxiliaries,Opponents
+539,American Revolutionary War,Iroquois,Opponents
+540,American Revolutionary War,Onondaga,Opponents
+541,American Revolutionary War,Cayuga,Opponents
+542,American Revolutionary War,Seneca,Opponents
+543,American Revolutionary War,Cherokee,Opponents
+544,Cherokee–American wars,Cherokee,Opponents
+545,Northwest Indian War,Western Confederacy,Opponents
+546,Northwest Indian War,Great Britain,Opponents
+547,Northwest Indian War,British North America,Opponents
+548,American–Algerian War,Regency of Algiers,Opponents
+549,Quasi-War,French Republic,Opponents
+550,Quasi-War,Guadeloupe,Opponents
+551,First Barbary War,Ottoman Tripolitania,Opponents
+552,First Barbary War,Sultanate of Morocco,Opponents
+553,Tecumseh's War,Tecumseh's Confederacy,Opponents
+554,War of 1812,United Kingdom,Opponents
+555,War of 1812,Tecumseh's Confederacy,Opponents
+556,War of 1812,Spain(1814),Opponents
+557,Creek War,Red Stick Creek,Opponents
+558,Second Barbary War,Deylik of Algiers,Opponents
+559,First Seminole War,Seminole,Opponents
+560,First Seminole War,Spanish Florida,Opponents
+561,Arikara War,Arikara,Opponents
+562,Winnebago War,Prairie La Crosse,Opponents
+563,Winnebago War,Ho-Chunks,Opponents
+564,Black Hawk War,Black Hawk's,Opponents
+565,Black Hawk War,British Band,Opponents
+566,Black Hawk War,Ho-Chunk,Opponents
+567,Black Hawk War,and Potawatomiallies,Opponents
+568,Second Seminole War,Seminole,Opponents
+569,Texas Comanche Wars,Comanche,Opponents
+570,Mexican–American War,Mexico,Opponents
+571,Cayuse War,Cayuse,Opponents
+572,Apache Wars,Apache,Opponents
+573,Apache Wars,Ute,Opponents
+574,Apache Wars,Yavapai,Opponents
+575,Navajo Wars,Navajo Nation,Opponents
+576,Bleeding Kansas,Pro-slavery settlers (Border Ruffians),Opponents
+577,Puget Sound War,Nisqually,Opponents
+578,Puget Sound War,Muckleshoot,Opponents
+579,Puget Sound War,Puyallup,Opponents
+580,Puget Sound War,Klickitat,Opponents
+581,Puget Sound War,Haida,Opponents
+582,Puget Sound War,Tlingit,Opponents
+583,Rogue River Wars,Tututni,Opponents
+584,Third Seminole War,Seminole,Opponents
+585,Yakima War,Yakama,Opponents
+586,Yakima War,Walla Walla tribe,Opponents
+587,Yakima War,Umatilla tribe,Opponents
+588,Yakima War,Nez Perce tribe,Opponents
+589,Yakima War,Cayuse tribe,Opponents
+590,Second Opium War,China,Opponents
+591,Utah War,Deseret/Utah Mormons (Nauvoo Legion),Opponents
+592,Reform War,Conservatives,Opponents
+593,Pig War,United Kingdom,Opponents
+594,Pig War,Colony of Vancouver Island,Opponents
+595,John Brown's Raid on Harpers Ferry,Abolitionist,Opponents
+596,John Brown's Raid on Harpers Ferry,Insurgents,Opponents
+597,First and Second Cortina War,Cortinista bandits,Opponents
+598,Paiute War,Paiute,Opponents
+599,Paiute War,Shoshone,Opponents
+600,Paiute War,Bannock,Opponents
+601,American Civil War,Confederate States,Opponents
+602,American Civil War,Cherokee Nation,Opponents
+603,American Civil War,Choctaw Nation,Opponents
+604,American Civil War,Catawba,Opponents
+605,American Civil War,Chickasaw Nation (part),Opponents
+606,American Civil War,Muskogee Nation (part),Opponents
+607,American Civil War,Seminole Nation (Western) (part),Opponents
+608,American Civil War,Comanche Nation (part),Opponents
+609,Yavapai Wars,Yavapai,Opponents
+610,Yavapai Wars,Apache,Opponents
+611,Yavapai Wars,Yuma,Opponents
+612,Yavapai Wars,Mohave,Opponents
+613,Dakota War of 1862,Dakota Sioux,Opponents
+614,Colorado War,Cheyenne,Opponents
+615,Colorado War,Arapaho,Opponents
+616,Colorado War,Sioux,Opponents
+617,Snake War,Paiute,Opponents
+618,Snake War,Bannock,Opponents
+619,Snake War,Shoshone,Opponents
+620,Powder River War,Sioux,Opponents
+621,Powder River War,Cheyenne,Opponents
+622,Powder River War,Arapaho,Opponents
+623,Red Cloud's War,Lakota,Opponents
+624,Red Cloud's War,Cheyenne,Opponents
+625,Red Cloud's War,Arapaho,Opponents
+626,Formosa Expedition,Paiwan,Opponents
+627,Comanche Campaign,Cheyenne,Opponents
+628,Comanche Campaign,Arapaho,Opponents
+629,Comanche Campaign,Comanche,Opponents
+630,Comanche Campaign,Kiowa,Opponents
+631,United States expedition to Korea,Joseon dynasty,Opponents
+632,Modoc War,Modoc,Opponents
+633,Red River War,Cheyenne,Opponents
+634,Red River War,Arapaho,Opponents
+635,Red River War,Comanche,Opponents
+636,Red River War,Kiowa,Opponents
+637,Las Cuevas War,Mexican bandits,Opponents
+638,Great Sioux War of 1876,Lakota,Opponents
+639,Great Sioux War of 1876,Dakota Sioux,Opponents
+640,Great Sioux War of 1876,Northern Cheyenne,Opponents
+641,Great Sioux War of 1876,Arapaho,Opponents
+642,Buffalo Hunters' War,Comanche,Opponents
+643,Buffalo Hunters' War,Apache,Opponents
+644,Nez Perce War,Nez Perce,Opponents
+645,Nez Perce War,Palouse,Opponents
+646,Bannock War,Bannock,Opponents
+647,Bannock War,Shoshone,Opponents
+648,Bannock War,Paiute,Opponents
+649,Cheyenne War,Cheyenne,Opponents
+650,Sheepeater Indian War,Shoshone,Opponents
+651,Victorio's War,Apache,Opponents
+652,White River War,Ute,Opponents
+653,Egyptian Expedition,Egypt,Opponents
+654,Crow War,Crow people,Opponents
+655,Ghost Dance War,Sioux,Opponents
+656,Garza War,Garzistas,Opponents
+657,Yaqui Wars,Yaqui,Opponents
+658,Yaqui Wars,Pima,Opponents
+659,Yaqui Wars,Opata,Opponents
+660,Second Samoan Civil War,Mataafans,Opponents
+661,Second Samoan Civil War,German Empire,Opponents
+662,Spanish–American War,Spain,Opponents
+663,Spanish–American War,Cuba,Opponents
+664,Spanish–American War,Guam,Opponents
+665,Spanish–American War,Philippines,Opponents
+666,Spanish–American War,Puerto Rico,Opponents
+667,Philippine–American War,(1899–1902) Philippine Republic,Opponents
+668,Philippine–American War,Negros Republic,Opponents
+669,Philippine–American War,Zamboanga Republic,Opponents
+670,Philippine–American War,Limited Foreign Support:Empire of Japan,Opponents
+671,Philippine–American War,Shishi,Opponents
+672,Philippine–American War,(1902-1906) Tagalog Republic,Opponents
+673,Philippine–American War,Irrenconcilables,Opponents
+674,Moro Rebellion,Moro,Opponents
+675,Moro Rebellion,Remnants of the Sulu Sultanate,Opponents
+676,Boxer Rebellion,Boxers,Opponents
+677,Boxer Rebellion,China (from 1900),Opponents
+678,Crazy Snake's War,Creek,Opponents
+679,Mexican Border War,Mexico,Opponents
+680,Mexican Border War,Supported by:German Empire,Opponents
+681,Little Race War,Cuban PIC,Opponents
+682,United States occupation of Nicaragua,Nicaraguan Liberals,Opponents
+683,United States occupation of Nicaragua,Sandinistas,Opponents
+684,Bluff War,Ute,Opponents
+685,Bluff War,Paiute,Opponents
+686,United States occupation of Veracruz,Mexico,Opponents
+687,United States occupation of Veracruz,Supported by:German Empire,Opponents
+688,United States occupation of Veracruz,Kingdom of Italy,Opponents
+689,United States occupation of Haiti,Haitian Rebels,Opponents
+690,United States occupation of the Dominican Republic,Dominican Republic,Opponents
+691,World War I,German Empire,Opponents
+692,World War I,Austro-Hungarian Empire,Opponents
+693,World War I,Ottoman Empire,Opponents
+694,World War I,Kingdom of Bulgaria,Opponents
+695,Russian Civil War,Russian SFSR,Opponents
+696,Russian Civil War,Far Eastern Republic,Opponents
+697,Russian Civil War,Mongolian Communists,Opponents
+698,Russian Civil War,Makhnovshchina,Opponents
+699,Russian Civil War,Left SRs,Opponents
+700,Russian Civil War,Green armies,Opponents
+701,Posey War,Ute,Opponents
+702,Posey War,Paiute,Opponents
+703,World War II,Nazi Germany,Opponents
+704,World War II,Empire of Japan,Opponents
+705,World War II,Kingdom of Italy,Opponents
+706,World War II,Soviet Union (in 1939–1941),Opponents
+707,World War II,Kingdom of Hungary,Opponents
+708,World War II,Kingdom of Romania,Opponents
+709,World War II,Kingdom of Bulgaria,Opponents
+710,World War II,Slovak Republic,Opponents
+711,World War II,Independent State of Croatia,Opponents
+712,World War II,Finland,Opponents
+713,World War II,Kingdom of Iraq,Opponents
+714,World War II,Thailand,Opponents
+715,World War II,Manchukuo,Opponents
+716,World War II,Mengjiang,Opponents
+717,Korean War,North Korea,Opponents
+718,Korean War,China,Opponents
+719,Korean War,Soviet Union,Opponents
+720,Korean War,Supported by:East Germany,Opponents
+721,Korean War,Czechoslovak Republic,Opponents
+722,Korean War,Hungarian People's Republic,Opponents
+723,Korean War,Polish People's Republic,Opponents
+724,Korean War,Romanian People's Republic,Opponents
+725,Korean War,People's Republic of Bulgaria,Opponents
+726,Korean War,Mongolian People's Republic,Opponents
+727,Vietnam War,North Vietnam,Opponents
+728,Vietnam War,Viet Cong,Opponents
+729,Vietnam War,Pathet Lao,Opponents
+730,Vietnam War,Khmer Rouge,Opponents
+731,Vietnam War,China,Opponents
+732,Vietnam War,Soviet Union,Opponents
+733,Vietnam War,North Korea,Opponents
+734,Vietnam War,Supported by:East Germany,Opponents
+735,Vietnam War,Czechoslovak Socialist Republic,Opponents
+736,Vietnam War,Hungarian People's Republic,Opponents
+737,Vietnam War,Polish People's Republic,Opponents
+738,Vietnam War,Socialist Republic of Romania,Opponents
+739,Vietnam War,People's Republic of Bulgaria,Opponents
+740,Vietnam War,Cuba,Opponents
+741,Laotian Civil War,Pathet Lao,Opponents
+742,Laotian Civil War,North Vietnam,Opponents
+743,Laotian Civil War,Supported by:China,Opponents
+744,Laotian Civil War,Soviet Union,Opponents
+745,Laotian Civil War,East Germany,Opponents
+746,Laotian Civil War,Czechoslovak Socialist Republic,Opponents
+747,Laotian Civil War,Socialist Republic of Romania,Opponents
+748,Laotian Civil War,Cuba,Opponents
+749,Permesta Rebellion,Indonesia,Opponents
+750,Lebanon crisis,Lebanese opposition: INM,Opponents
+751,Lebanon crisis,LCP,Opponents
+752,Lebanon crisis,PSP,Opponents
+753,Bay of Pigs Invasion,Cuba,Opponents
+754,Dominican Civil War,Dominican Constitutionalists,Opponents
+755,Korean DMZ Conflict,North Korea,Opponents
+756,Cambodian Civil War,National United Front of Kampuchea,Opponents
+757,Cambodian Civil War,Khmer Rouge,Opponents
+758,Cambodian Civil War,Khmer Rumdo,Opponents
+759,Cambodian Civil War,Khmer Việt Minh,Opponents
+760,Cambodian Civil War,North Vietnam,Opponents
+761,Cambodian Civil War,Việt Cộng,Opponents
+762,Cambodian Civil War,Supported by:China,Opponents
+763,Cambodian Civil War,Soviet Union,Opponents
+764,Cambodian Civil War,North Korea,Opponents
+765,Cambodian Civil War,Czechoslovak Socialist Republic,Opponents
+766,Cambodian Civil War,Socialist Republic of Romania,Opponents
+767,Cambodian Civil War,Cuba,Opponents
+768,Multinational intervention in Lebanon,Lebanese National Movement. Jammoul,Opponents
+769,Multinational intervention in Lebanon,PLO,Opponents
+770,Multinational intervention in Lebanon,Amal Movement,Opponents
+771,Multinational intervention in Lebanon,Iran,Opponents
+772,Multinational intervention in Lebanon,Islamic Revolutionary Guard Corps,Opponents
+773,Multinational intervention in Lebanon,Hezbollah,Opponents
+774,Multinational intervention in Lebanon,Islamic Jihad Organization,Opponents
+775,Multinational intervention in Lebanon,Islamic Unification Movement,Opponents
+776,Multinational intervention in Lebanon,Syria,Opponents
+777,Multinational intervention in Lebanon,Arab Deterrent Force,Opponents
+778,Multinational intervention in Lebanon,Saudi Arabia,Opponents
+779,Multinational intervention in Lebanon,Sudan,Opponents
+780,Multinational intervention in Lebanon,United Arab Emirates,Opponents
+781,Multinational intervention in Lebanon,Libya,Opponents
+782,Multinational intervention in Lebanon,South Yemen,Opponents
+783,United States invasion of Grenada,PRG of Grenada,Opponents
+784,United States invasion of Grenada,Cuba,Opponents
+785,United States invasion of Grenada,Military advisors:Soviet Union,Opponents
+786,United States invasion of Grenada,Bulgaria,Opponents
+787,United States invasion of Grenada,East Germany,Opponents
+788,United States invasion of Grenada,Libya,Opponents
+789,Bombing of Libya,Libya,Opponents
+790,Tanker War,Iran,Opponents
+791,United States invasion of Panama,Panama,Opponents
+792,Gulf War,Iraq,Opponents
+793,Iraqi No-Fly Zone Enforcement Operations,Iraq,Opponents
+794,First U.S. Intervention in the Somali Civil War,Somali National Alliance,Opponents
+795,Bosnian War and Croatian War,Republika Srpska,Opponents
+796,Bosnian War and Croatian War,Serbian Krajina,Opponents
+797,Bosnian War and Croatian War,Western Bosnia,Opponents
+798,Intervention in Haiti,Haiti,Opponents
+799,Kosovo War,FR Yugoslavia,Opponents
+800,War in Afghanistan,Taliban (Haqqani network),Opponents
+801,War in Afghanistan,Allied groups (Hezb-e-Islami Gulbuddin,Opponents
+802,War in Afghanistan,al-Qaeda,Opponents
+803,War in Afghanistan,Islamic Jihad Union - Islamic Movement of Uzbekistan),Opponents
+804,War in Afghanistan,Taliban splinter groups (Fidai Mahaz),Opponents
+805,War in Afghanistan,IS-Affiliates:Islamic State – Khorasan Province,Opponents
+806,War in Afghanistan,2001 Invasion:Islamic Emirate of Afghanistan,Opponents
+807,War in Afghanistan,Talibani Army,Opponents
+808,War in Afghanistan,Salafist extremists,Opponents
+809,War in Afghanistan,055 Brigade,Opponents
+810,US intervention in Yemen,al-Qaeda in the Arabian PeninsulaAnsar al-ShariaIslamic State of Iraq and the Levant – Yemen ProvinceYemenRevolutionary Committee/Supreme Political CouncilHouthi movementYemen Armed ForcesYemeni Republican Guard,Opponents
+811,Iraq War,Post-invasion (2003–2011) - Ba'ath Loyalists,Opponents
+812,Iraq War,Supreme Command for Jihad and Liberation,Opponents
+813,Iraq War,Naqshbandi Army,Opponents
+814,Iraq War,DulaimTribes,Opponents
+815,Iraq War,Sunni insurgents (al-Qaeda in Iraq,Opponents
+816,Iraq War,Islamic State of Iraq,Opponents
+817,Iraq War,Ansar al-Sunnah,Opponents
+818,Iraq War,Islamic Army of Iraq),Opponents
+819,Iraq War,Shia insurgents (Mahdi Army,Opponents
+820,Iraq War,Special Groups,Opponents
+821,Iraq War,Asa'ib Ahl al-Haq,Opponents
+822,Iraq War,Invasion phase (2003) - Iraq DulaimTribes,Opponents
+823,Iraq War,MEK,Opponents
+824,Iraq War,Ansar al-Islam,Opponents
+825,Iraq War,Islamic Emirate of Byara,Opponents
+826,US intervention in the War in North-West Pakistan,Jihadists:Taliban,Opponents
+827,US intervention in the War in North-West Pakistan,Tehrik-i-Taliban Pakistan,Opponents
+828,US intervention in the War in North-West Pakistan,Haqqani network,Opponents
+829,US intervention in the War in North-West Pakistan,al-Qaeda,Opponents
+830,US intervention in the War in North-West Pakistan,Lashkar-e-Jhangvi,Opponents
+831,US intervention in the War in North-West Pakistan,Foreign Mujahideen,Opponents
+832,US intervention in the War in North-West Pakistan,Uzbek Islamic Movement,Opponents
+833,US intervention in the War in North-West Pakistan,Turkistan Islamic Party,Opponents
+834,US intervention in the War in North-West Pakistan,Tehreek-e-Nafaz-e-Shariat-e-Mohammad,Opponents
+835,US intervention in the War in North-West Pakistan,iIslamic State of Iraq and the Levant – Khorasan Province,Opponents
+836,Second US Intervention in the Somali Civil War,Jihadists:al-Shabaab,Opponents
+837,Second US Intervention in the Somali Civil War,Mujahideen,Opponents
+838,Second US Intervention in the Somali Civil War,Hizbul Islam,Opponents
+839,Second US Intervention in the Somali Civil War,Islamic State in Somalia,Opponents
+840,Operation Ocean Shield,Somali pirates,Opponents
+841,International intervention in Libya,Libyan Arab Jamahiriya,Opponents
+842,International intervention in Libya,Remnants of Libyan Arab Jamahiriya (After August 28) - Gaddafi Loyalists,Opponents
+843,International intervention in Libya,Libyan Armed Forces,Opponents
+844,International intervention in Libya,Libyan Navy,Opponents
+845,International intervention in Libya,Libyan Air Force,Opponents
+846,International intervention in Libya,Paramilitary forces,Opponents
+847,International intervention in Libya,Pro-Gaddafi militias and tribes,Opponents
+848,International intervention in Libya,Mercenaries (alleged),Opponents
+849,Operation Observant Compass,Lord's Resistance Army,Opponents
+850,US military intervention in Niger,Jihadists: Al-Qaeda,Opponents
+851,US military intervention in Niger,Nusrat al-Islam,Opponents
+852,US military intervention in Niger,Islamic State of Iraq and Syria,Opponents
+853,US military intervention in Niger,Islamic State – West Africa Province,Opponents
+854,US military intervention in Niger,Islamic State in the Greater Sahara,Opponents
+855,US military intervention in Niger,Boko Haram(partially aligned with,Opponents
+856,US military intervention in Niger,ISIL since 2015),Opponents
+857,US-led intervention in Iraq,Jihadists: Islamic State of Iraq and Syria,Opponents
+858,US-led intervention in Iraq,White Flags,Opponents
+859,US intervention in the Syrian civil war,Islamic State of Iraq and Syria,Opponents
+860,US intervention in the Syrian civil war,al-Qaeda linked groups:al-Nusra Front,Opponents
+861,US intervention in the Syrian civil war,Khorasan group,Opponents
+862,US intervention in the Syrian civil war,Tahrir al-Sham,Opponents
+863,US intervention in the Syrian civil war,Jaysh al-Sunna,Opponents
+864,US intervention in the Syrian civil war,Jund al-Aqsa,Opponents
+865,US intervention in the Syrian civil war,Rouse the Believers,Opponents
+866,US intervention in the Syrian civil war,Guardians of Religion Organization,Opponents
+867,US intervention in the Syrian civil war,Turkistan Islamic Party in Syria,Opponents
+868,US intervention in the Syrian civil war,Ahrar al-Sham,Opponents
+869,US intervention in the Syrian civil war,Syria (limited encounters with US and Israel),Opponents
+870,US intervention in the Syrian civil war,Supported by:Russia,Opponents
+871,US intervention in the Syrian civil war,Iran,Opponents
+872,US intervention in the Syrian civil war,Kata'ib Hezbollah,Opponents
+873,US intervention in Libya,Jihadists: Islamic State in Libya,Opponents
+874,US intervention in Libya,al-Qaeda in the Islamic Maghreb,Opponents
+875,Operation Prosperity Guardian,Yemen,Opponents
+876,Operation Prosperity Guardian,Supreme Political Council,Opponents
+877,Operation Prosperity Guardian,Houthi movement,Opponents

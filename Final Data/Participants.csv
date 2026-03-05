@@ -1,0 +1,471 @@
+ID,Name
+0,United States
+1,Kingdom of France
+2,Canadian Auxiliaries
+3,Spanish Empire
+4,Iroquois
+5,Oneida
+6,Tuscarora
+7,Watauga  Association
+8,Catawba
+9,Lenape
+10,Choctaw
+11,Dutch Republic
+12,Mysore
+13,Chickasaw
+14,Co-belligerent: Great Britain
+15,Sweden
+16,Kingdom of Sicily
+17,Malta Protectorate
+18,Kingdom of Portugal
+19,Sultanate of Morocco
+20,Choctaw Nation
+21,Cherokee Nation
+22,Creek Allies
+23,Lower Creeks
+24,Sioux
+25,Ho-Chunk
+26,Menominee
+27,Dakota
+28,Potawatomi
+29,Republic of Texas
+30,California Republic
+31,Anti-slavery settlers (Free-Staters)
+32,Snoqualmie
+33,British Empire
+34,French Empire
+35,Liberals
+36,Washington Territory
+37,Confederate States
+38,Mexico
+39,Indian Home Guard
+40,Seminole Nation (Western)
+41,Seminole Nation (Florida)
+42,Muskogee Nation
+43,Crow Nation
+44,Samoa
+45,Cuban Revolutionaries
+46,Filipino Revolutionaries
+47,United States - Military government (1899–1902)
+48,United States - Civil government (1902-1906)
+49,United Kingdom
+50,Australia
+51,New Zealand
+52,India
+53,Russian Empire
+54,Empire of Japan
+55,French Republic
+56,German Empire
+57,Kingdom of Italy
+58,Austro-Hungarian Empire
+59,China(until 1900)
+60,Cuba
+61,Nicaragua
+62,Supported by:United Kingdom
+63,Haiti
+64,United States (since 1917)
+65,Russian Empire (until 1917)
+66,Kingdom of Serbia
+67,Kingdom of Montenegro
+68,Kingdom of Romania
+69,Kingdom of Greece
+70,Belgium
+71,Portugal
+72,Republic of Armenia
+73,Sultanate of Egypt
+74,Idrisid Emirate of Asir
+75,Emirate of Nejd and Hasa
+76,Kingdom of Hejaz
+77,Republic of China
+78,Siam
+79,Brazil
+80,White Movement
+81,Mountain Republic
+82,Makhnovshchina
+83,Right SRs
+84,Left SRs
+85,Green armies
+86,Czechoslovakia
+87,Canada
+88,South Africa
+89,Romania
+90,Italy
+91,Poland
+92,Estonia
+93,Latvia
+94,China
+95,Mongolia
+96,United States (since 1941)
+97,Soviet Union (since 1941)
+98,Republic of Poland
+99,Czechoslovak Republic
+100,Kingdom of Yugoslavia
+101,Denmark
+102,Norway
+103,Netherlands
+104,Luxembourg
+105,Republic of Cuba
+106,Republic of Haiti
+107,Argentina
+108,Chile
+109,Peru
+110,United States of Venezuela
+111,Liberia
+112,Kingdom of Egypt
+113,Ethiopian Empire
+114,Union of South Africa
+115,Sultanate of Muscat and Oman
+116,Kingdom of Nepal
+117,Mongolian People's Republic
+118,Commonwealth of the Philippines
+119,Viet Minh
+120,Korean Provisional Government
+121,South Korea
+122,United Nations
+123,France
+124,Philippines
+125,Colombia
+126,Spanish State
+127,Thailand
+128,Turkey
+129,South Vietnam
+130,Kingdom of Laos
+131,Khmer Republic
+132,Supported by:Philippines
+133,Taiwan
+134,Permesta
+135,Lebanon
+136,CDRF
+137,Dominican Loyalists
+138,IAPF (Brazil
+139,Paraguay
+140,Costa Rica
+141,El Salvador
+142,Honduras)
+143,Kingdom of Cambodia (1967–1970)
+144,Khmer Republic (1970–1975)
+145,Supported by:Australia
+146,Lebanese Armed Forces
+147,UNIFIL Multinational Force in Lebanon:United States
+148,Israel
+149,Lebanese Front
+150,Army of Free Lebanon
+151,SLA
+152,Barbados
+153,Jamaica
+154,Antigua and Barbuda
+155,Dominica
+156,Saint Kitts and Nevis
+157,Saint Lucia
+158,Saint Vincent and the Grenadines
+159,Panamanian Opposition
+160,Kuwait
+161,Saudi Arabia
+162,Egypt
+163,Syria
+164,Qatar
+165,Bahrain
+166,United Arab Emirates
+167,Oman
+168,Spain
+169,Malaysia
+170,Pakistan
+171,Greece
+172,Germany
+173,Botswana
+174,Bosnia and Herzegovina
+175,Herzeg-Bosnia
+176,Croatia
+177,KLA
+178,AFRK
+179,Albania
+180,Czech Republic
+181,Hungary
+182,Resolute Support Mission
+183,Afghanistan
+184,Georgia
+185,Slovakia
+186,Saudi-led coalition:Saudi Arabia
+187,Jordan
+188,Morocco
+189,Sudan
+190,Senegal
+191,Supported by:United States
+192,In support of:Cabinet of Yemen
+193,Yemen Armed Forces (pro-Hadi)
+194,Yemeni Air Force
+195,Popular Resistance
+196,Post-invasion (2003–2011): United States
+197,Iraq
+198,MNF–I / Invasion phase (2003) - United States
+199,Iraqi Kurdistan
+200,Supported by:Netherlands
+201,Supported by: United Kingdom
+202,Somalia
+203,AMISOM (Burundi
+204,Djibouti
+205,Ethiopia
+206,Ghana
+207,Kenya
+208,Nigeria
+209,Sierra Leone
+210,Uganda)
+211,Supported by:Italy
+212,Non-combat support: European Union
+213,NATO
+214,Indonesia
+215,Japan
+216,Russia
+217,Seychelles
+218,Singapore
+219,Ukraine
+220,UNSC Resolution 1973 forces
+221,Anti-Gaddafi rebels
+222,Uganda
+223,DR Congo
+224,Central African Republic
+225,South Sudan
+226,Supported by:Niger
+227,CJTF-OIR Members: Australia
+228,Revolutionary Commando Army
+229,Autonomous Administration of North and East Syria
+230,Syrian Democratic Forces (International Freedom Battalion
+231,People's Protection Units
+232,Women's Protection Units
+233,Al-Sanadid Forces
+234,Euphrates Volcano)
+235,Supported by:Iraq
+236,Kurdistan Regional Government
+237,TurkeyTurkish-backed rebels
+238,Israel (limited involvement; against Hezbollah and government forces only)
+239,Libya
+240,Government of National Accord
+241,Sri Lanka
+242,Supported by:Seychelles
+243,Great Britain
+244,Loyalists
+245,German Auxiliaries
+246,Onondaga
+247,Cayuga
+248,Seneca
+249,Cherokee
+250,Western Confederacy
+251,British North America
+252,Regency of Algiers
+253,Guadeloupe
+254,Ottoman Tripolitania
+255,Tecumseh's Confederacy
+256,Spain(1814)
+257,Red Stick Creek
+258,Deylik of Algiers
+259,Seminole
+260,Spanish Florida
+261,Arikara
+262,Prairie La Crosse
+263,Ho-Chunks
+264,Black Hawk's
+265,British Band
+266,and Potawatomiallies
+267,Comanche
+268,Cayuse
+269,Apache
+270,Ute
+271,Yavapai
+272,Navajo Nation
+273,Pro-slavery settlers (Border Ruffians)
+274,Nisqually
+275,Muckleshoot
+276,Puyallup
+277,Klickitat
+278,Haida
+279,Tlingit
+280,Tututni
+281,Yakama
+282,Walla Walla tribe
+283,Umatilla tribe
+284,Nez Perce tribe
+285,Cayuse tribe
+286,Deseret/Utah Mormons (Nauvoo Legion)
+287,Conservatives
+288,Colony of Vancouver Island
+289,Abolitionist
+290,Insurgents
+291,Cortinista bandits
+292,Paiute
+293,Shoshone
+294,Bannock
+295,Chickasaw Nation (part)
+296,Muskogee Nation (part)
+297,Seminole Nation (Western) (part)
+298,Comanche Nation (part)
+299,Yuma
+300,Mohave
+301,Dakota Sioux
+302,Cheyenne
+303,Arapaho
+304,Lakota
+305,Paiwan
+306,Kiowa
+307,Joseon dynasty
+308,Modoc
+309,Mexican bandits
+310,Northern Cheyenne
+311,Nez Perce
+312,Palouse
+313,Crow people
+314,Garzistas
+315,Yaqui
+316,Pima
+317,Opata
+318,Mataafans
+319,Guam
+320,Puerto Rico
+321,(1899–1902) Philippine Republic
+322,Negros Republic
+323,Zamboanga Republic
+324,Limited Foreign Support:Empire of Japan
+325,Shishi
+326,(1902-1906) Tagalog Republic
+327,Irrenconcilables
+328,Moro
+329,Remnants of the Sulu Sultanate
+330,Boxers
+331,China (from 1900)
+332,Creek
+333,Supported by:German Empire
+334,Cuban PIC
+335,Nicaraguan Liberals
+336,Sandinistas
+337,Haitian Rebels
+338,Dominican Republic
+339,Ottoman Empire
+340,Kingdom of Bulgaria
+341,Russian SFSR
+342,Far Eastern Republic
+343,Mongolian Communists
+344,Nazi Germany
+345,Soviet Union (in 1939–1941)
+346,Kingdom of Hungary
+347,Slovak Republic
+348,Independent State of Croatia
+349,Finland
+350,Kingdom of Iraq
+351,Manchukuo
+352,Mengjiang
+353,North Korea
+354,Soviet Union
+355,Supported by:East Germany
+356,Hungarian People's Republic
+357,Polish People's Republic
+358,Romanian People's Republic
+359,People's Republic of Bulgaria
+360,North Vietnam
+361,Viet Cong
+362,Pathet Lao
+363,Khmer Rouge
+364,Czechoslovak Socialist Republic
+365,Socialist Republic of Romania
+366,Supported by:China
+367,East Germany
+368,Lebanese opposition: INM
+369,LCP
+370,PSP
+371,Dominican Constitutionalists
+372,National United Front of Kampuchea
+373,Khmer Rumdo
+374,Khmer Việt Minh
+375,Việt Cộng
+376,Lebanese National Movement. Jammoul
+377,PLO
+378,Amal Movement
+379,Iran
+380,Islamic Revolutionary Guard Corps
+381,Hezbollah
+382,Islamic Jihad Organization
+383,Islamic Unification Movement
+384,Arab Deterrent Force
+385,South Yemen
+386,PRG of Grenada
+387,Military advisors:Soviet Union
+388,Bulgaria
+389,Panama
+390,Somali National Alliance
+391,Republika Srpska
+392,Serbian Krajina
+393,Western Bosnia
+394,FR Yugoslavia
+395,Taliban (Haqqani network)
+396,Allied groups (Hezb-e-Islami Gulbuddin
+397,al-Qaeda
+398,Islamic Jihad Union - Islamic Movement of Uzbekistan)
+399,Taliban splinter groups (Fidai Mahaz)
+400,IS-Affiliates:Islamic State – Khorasan Province
+401,2001 Invasion:Islamic Emirate of Afghanistan
+402,Talibani Army
+403,Salafist extremists
+404,055 Brigade
+405,al-Qaeda in the Arabian PeninsulaAnsar al-ShariaIslamic State of Iraq and the Levant – Yemen ProvinceYemenRevolutionary Committee/Supreme Political CouncilHouthi movementYemen Armed ForcesYemeni Republican Guard
+406,Post-invasion (2003–2011) - Ba'ath Loyalists
+407,Supreme Command for Jihad and Liberation
+408,Naqshbandi Army
+409,DulaimTribes
+410,Sunni insurgents (al-Qaeda in Iraq
+411,Islamic State of Iraq
+412,Ansar al-Sunnah
+413,Islamic Army of Iraq)
+414,Shia insurgents (Mahdi Army
+415,Special Groups
+416,Asa'ib Ahl al-Haq
+417,Invasion phase (2003) - Iraq DulaimTribes
+418,MEK
+419,Ansar al-Islam
+420,Islamic Emirate of Byara
+421,Jihadists:Taliban
+422,Tehrik-i-Taliban Pakistan
+423,Haqqani network
+424,Lashkar-e-Jhangvi
+425,Foreign Mujahideen
+426,Uzbek Islamic Movement
+427,Turkistan Islamic Party
+428,Tehreek-e-Nafaz-e-Shariat-e-Mohammad
+429,iIslamic State of Iraq and the Levant – Khorasan Province
+430,Jihadists:al-Shabaab
+431,Mujahideen
+432,Hizbul Islam
+433,Islamic State in Somalia
+434,Somali pirates
+435,Libyan Arab Jamahiriya
+436,Remnants of Libyan Arab Jamahiriya (After August 28) - Gaddafi Loyalists
+437,Libyan Armed Forces
+438,Libyan Navy
+439,Libyan Air Force
+440,Paramilitary forces
+441,Pro-Gaddafi militias and tribes
+442,Mercenaries (alleged)
+443,Lord's Resistance Army
+444,Jihadists: Al-Qaeda
+445,Nusrat al-Islam
+446,Islamic State of Iraq and Syria
+447,Islamic State – West Africa Province
+448,Islamic State in the Greater Sahara
+449,Boko Haram(partially aligned with
+450,ISIL since 2015)
+451,Jihadists: Islamic State of Iraq and Syria
+452,White Flags
+453,al-Qaeda linked groups:al-Nusra Front
+454,Khorasan group
+455,Tahrir al-Sham
+456,Jaysh al-Sunna
+457,Jund al-Aqsa
+458,Rouse the Believers
+459,Guardians of Religion Organization
+460,Turkistan Islamic Party in Syria
+461,Ahrar al-Sham
+462,Syria (limited encounters with US and Israel)
+463,Supported by:Russia
+464,Kata'ib Hezbollah
+465,Jihadists: Islamic State in Libya
+466,al-Qaeda in the Islamic Maghreb
+467,Yemen
+468,Supreme Political Council
+469,Houthi movement
