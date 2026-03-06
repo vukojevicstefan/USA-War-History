@@ -6,7 +6,7 @@ ID,Name
 4,Iroquois
 5,Oneida
 6,Tuscarora
-7,Watauga  Association
+7,Watauga Association
 8,Catawba
 9,Lenape
 10,Choctaw
@@ -46,7 +46,7 @@ ID,Name
 44,Samoa
 45,Cuban Revolutionaries
 46,Filipino Revolutionaries
-47,United States - Military government (1899–1902)
+47,United States - Military government (1899-1902)
 48,United States - Civil government (1902-1906)
 49,United Kingdom
 50,Australia
@@ -61,7 +61,7 @@ ID,Name
 59,China(until 1900)
 60,Cuba
 61,Nicaragua
-62,Supported by:United Kingdom
+62,United Kingdom
 63,Haiti
 64,United States (since 1917)
 65,Russian Empire (until 1917)
@@ -131,7 +131,7 @@ ID,Name
 129,South Vietnam
 130,Kingdom of Laos
 131,Khmer Republic
-132,Supported by:Philippines
+132,Philippines
 133,Taiwan
 134,Permesta
 135,Lebanon
@@ -142,9 +142,9 @@ ID,Name
 140,Costa Rica
 141,El Salvador
 142,Honduras)
-143,Kingdom of Cambodia (1967–1970)
-144,Khmer Republic (1970–1975)
-145,Supported by:Australia
+143,Kingdom of Cambodia (1967-1970)
+144,Khmer Republic (1970-1975)
+145,Australia
 146,Lebanese Armed Forces
 147,UNIFIL Multinational Force in Lebanon:United States
 148,Israel
@@ -190,17 +190,17 @@ ID,Name
 188,Morocco
 189,Sudan
 190,Senegal
-191,Supported by:United States
-192,In support of:Cabinet of Yemen
+191,United States
+192,Cabinet of Yemen
 193,Yemen Armed Forces (pro-Hadi)
 194,Yemeni Air Force
 195,Popular Resistance
-196,Post-invasion (2003–2011): United States
+196,Post-invasion (2003-2011): United States
 197,Iraq
-198,MNF–I / Invasion phase (2003) - United States
+198,MNF-I / Invasion phase (2003) - United States
 199,Iraqi Kurdistan
-200,Supported by:Netherlands
-201,Supported by: United Kingdom
+200,Netherlands
+201, United Kingdom
 202,Somalia
 203,AMISOM (Burundi
 204,Djibouti
@@ -210,7 +210,7 @@ ID,Name
 208,Nigeria
 209,Sierra Leone
 210,Uganda)
-211,Supported by:Italy
+211,Italy
 212,Non-combat support: European Union
 213,NATO
 214,Indonesia
@@ -225,7 +225,7 @@ ID,Name
 223,DR Congo
 224,Central African Republic
 225,South Sudan
-226,Supported by:Niger
+226,Niger
 227,CJTF-OIR Members: Australia
 228,Revolutionary Commando Army
 229,Autonomous Administration of North and East Syria
@@ -233,15 +233,15 @@ ID,Name
 231,People's Protection Units
 232,Women's Protection Units
 233,Al-Sanadid Forces
-234,Euphrates Volcano)
-235,Supported by:Iraq
+234,Euphrates Volcano
+235,Iraq
 236,Kurdistan Regional Government
 237,TurkeyTurkish-backed rebels
 238,Israel (limited involvement; against Hezbollah and government forces only)
 239,Libya
 240,Government of National Accord
 241,Sri Lanka
-242,Supported by:Seychelles
+242,Seychelles
 243,Great Britain
 244,Loyalists
 245,German Auxiliaries
@@ -320,7 +320,7 @@ ID,Name
 318,Mataafans
 319,Guam
 320,Puerto Rico
-321,(1899–1902) Philippine Republic
+321,(1899-1902) Philippine Republic
 322,Negros Republic
 323,Zamboanga Republic
 324,Limited Foreign Support:Empire of Japan
@@ -332,7 +332,7 @@ ID,Name
 330,Boxers
 331,China (from 1900)
 332,Creek
-333,Supported by:German Empire
+333,German Empire
 334,Cuban PIC
 335,Nicaraguan Liberals
 336,Sandinistas
@@ -344,7 +344,7 @@ ID,Name
 342,Far Eastern Republic
 343,Mongolian Communists
 344,Nazi Germany
-345,Soviet Union (in 1939–1941)
+345,Soviet Union (in 1939-1941)
 346,Kingdom of Hungary
 347,Slovak Republic
 348,Independent State of Croatia
@@ -354,7 +354,7 @@ ID,Name
 352,Mengjiang
 353,North Korea
 354,Soviet Union
-355,Supported by:East Germany
+355,East Germany
 356,Hungarian People's Republic
 357,Polish People's Republic
 358,Romanian People's Republic
@@ -365,7 +365,7 @@ ID,Name
 363,Khmer Rouge
 364,Czechoslovak Socialist Republic
 365,Socialist Republic of Romania
-366,Supported by:China
+366,China
 367,East Germany
 368,Lebanese opposition: INM
 369,LCP
@@ -399,13 +399,13 @@ ID,Name
 397,al-Qaeda
 398,Islamic Jihad Union - Islamic Movement of Uzbekistan)
 399,Taliban splinter groups (Fidai Mahaz)
-400,IS-Affiliates:Islamic State – Khorasan Province
+400,IS-Affiliates:Islamic State - Khorasan Province
 401,2001 Invasion:Islamic Emirate of Afghanistan
 402,Talibani Army
 403,Salafist extremists
 404,055 Brigade
-405,al-Qaeda in the Arabian PeninsulaAnsar al-ShariaIslamic State of Iraq and the Levant – Yemen ProvinceYemenRevolutionary Committee/Supreme Political CouncilHouthi movementYemen Armed ForcesYemeni Republican Guard
-406,Post-invasion (2003–2011) - Ba'ath Loyalists
+405,al-Qaeda in the Arabian PeninsulaAnsar al-ShariaIslamic State of Iraq and the Levant - Yemen ProvinceYemenRevolutionary Committee/Supreme Political CouncilHouthi movementYemen Armed ForcesYemeni Republican Guard
+406,Post-invasion (2003-2011) - Ba'ath Loyalists
 407,Supreme Command for Jihad and Liberation
 408,Naqshbandi Army
 409,DulaimTribes
@@ -428,7 +428,7 @@ ID,Name
 426,Uzbek Islamic Movement
 427,Turkistan Islamic Party
 428,Tehreek-e-Nafaz-e-Shariat-e-Mohammad
-429,iIslamic State of Iraq and the Levant – Khorasan Province
+429,iIslamic State of Iraq and the Levant - Khorasan Province
 430,Jihadists:al-Shabaab
 431,Mujahideen
 432,Hizbul Islam
@@ -446,10 +446,10 @@ ID,Name
 444,Jihadists: Al-Qaeda
 445,Nusrat al-Islam
 446,Islamic State of Iraq and Syria
-447,Islamic State – West Africa Province
+447,Islamic State - West Africa Province
 448,Islamic State in the Greater Sahara
 449,Boko Haram(partially aligned with
-450,ISIL since 2015)
+450,ISIL since 2015
 451,Jihadists: Islamic State of Iraq and Syria
 452,White Flags
 453,al-Qaeda linked groups:al-Nusra Front
@@ -462,10 +462,11 @@ ID,Name
 460,Turkistan Islamic Party in Syria
 461,Ahrar al-Sham
 462,Syria (limited encounters with US and Israel)
-463,Supported by:Russia
+463,Russia
 464,Kata'ib Hezbollah
 465,Jihadists: Islamic State in Libya
 466,al-Qaeda in the Islamic Maghreb
 467,Yemen
 468,Supreme Political Council
 469,Houthi movement
+470,Israel
